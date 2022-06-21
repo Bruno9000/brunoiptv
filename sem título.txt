@@ -1,0 +1,1453 @@
+group,Channels
+ext,POWER COUPLE FHD,http://cdnrede.com:80/Paulao22/nba111/225809
+ext,POWER COUPLE HD,http://cdnrede.com:80/Paulao22/nba111/225810
+ext,POWER COUPLE SD,http://cdnrede.com:80/Paulao22/nba111/225811
+ext,GLOBO SP 4K H265,http://cdnrede.com:80/Paulao22/nba111/174628
+ext,RECORD TV SP 4K H265,http://cdnrede.com:80/Paulao22/nba111/174633
+ext,SBT SP 4K H265,http://cdnrede.com:80/Paulao22/nba111/174629
+ext,BAND SP 4K H265,http://cdnrede.com:80/Paulao22/nba111/174630
+ext,PREMIERE CLUBES 4K H265,http://cdnrede.com:80/Paulao22/nba111/174635
+ext,SPORTV 4K H265,http://cdnrede.com:80/Paulao22/nba111/174634
+ext,ESPN 4K H265,http://cdnrede.com:80/Paulao22/nba111/174650
+ext,ESPN 4 4K H265,http://cdnrede.com:80/Paulao22/nba111/174636
+ext,TELECINE ACTION 4K H265,http://cdnrede.com:80/Paulao22/nba111/174647
+ext,TELECINE PIPOCA 4K H265,http://cdnrede.com:80/Paulao22/nba111/174648
+ext,TELECINE PREMIUM 4K H265,http://cdnrede.com:80/Paulao22/nba111/174649
+ext,AXN 4K H265,http://cdnrede.com:80/Paulao22/nba111/174627
+ext,STAR CHANNEL 4K H265,http://cdnrede.com:80/Paulao22/nba111/174644
+ext,UNIVERSAL CHANNEL 4K H265,http://cdnrede.com:80/Paulao22/nba111/174646
+ext,ANIMAL PLANET 4K H265,http://cdnrede.com:80/Paulao22/nba111/174640
+ext,DISCOVERY CHANNEL 4K H265,http://cdnrede.com:80/Paulao22/nba111/174638
+ext,COMEDY CENTRAL 4K H265,http://cdnrede.com:80/Paulao22/nba111/174641
+ext,DISCOVERY H&H 4K H265,http://cdnrede.com:80/Paulao22/nba111/174637
+ext,DISCOVERY TURBO 4K H265,http://cdnrede.com:80/Paulao22/nba111/174642
+ext,GNT 4K H265,http://cdnrede.com:80/Paulao22/nba111/174645
+ext,VIVA 4K H265,http://cdnrede.com:80/Paulao22/nba111/174639
+ext,CARTOON NETWORK 4K H265,http://cdnrede.com:80/Paulao22/nba111/174643
+ext,CNN BRASIL 4K H265,http://cdnrede.com:80/Paulao22/nba111/174632
+ext,GLOBO NEWS 4K H265,http://cdnrede.com:80/Paulao22/nba111/174631
+ext,GLOBO SP FHD H265,http://cdnrede.com:80/Paulao22/nba111/61127
+Globosp.br,GLOBO SP FHD,http://cdnrede.com:80/Paulao22/nba111/5136
+ext,GLOBO SP FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177935
+Globosp.br,GLOBO SP HD,http://cdnrede.com:80/Paulao22/nba111/5116
+ext,GLOBO SP HD Â²,http://cdnrede.com:80/Paulao22/nba111/59595
+Globosp.br,GLOBO SP SD,http://cdnrede.com:80/Paulao22/nba111/5117
+ext,GLOBO SP SD Â²,http://cdnrede.com:80/Paulao22/nba111/21390
+ext,GLOBO RJ FHD H265,http://cdnrede.com:80/Paulao22/nba111/61128
+Globorj.br,GLOBO RJ FHD,http://cdnrede.com:80/Paulao22/nba111/5137
+ext,GLOBO RJ FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177936
+Globorj.br,GLOBO RJ HD,http://cdnrede.com:80/Paulao22/nba111/5120
+ext,GLOBO RJ HD Â²,http://cdnrede.com:80/Paulao22/nba111/25584
+Globorj.br,GLOBO RJ SD,http://cdnrede.com:80/Paulao22/nba111/5121
+ext,GLOBO RJ SD Â²,http://cdnrede.com:80/Paulao22/nba111/25585
+ext,GLOBO MINAS FHD H265,http://cdnrede.com:80/Paulao22/nba111/62746
+ext,GLOBO MINAS FHD,http://cdnrede.com:80/Paulao22/nba111/5138
+ext,GLOBO MINAS HD,http://cdnrede.com:80/Paulao22/nba111/5128
+ext,GLOBO MINAS HD Â²,http://cdnrede.com:80/Paulao22/nba111/21349
+Globominas.br,GLOBO MINAS SD,http://cdnrede.com:80/Paulao22/nba111/5129
+ext,GLOBO MINAS SD Â²,http://cdnrede.com:80/Paulao22/nba111/43267
+ext,GLOBO BRASILIA FHD H265,http://cdnrede.com:80/Paulao22/nba111/164583
+Globobrasilia.br,GLOBO BRASILIA FHD,http://cdnrede.com:80/Paulao22/nba111/25431
+Globobrasilia.br,GLOBO BRASILIA HD,http://cdnrede.com:80/Paulao22/nba111/5134
+ext,GLOBO BRASILIA HD Â²,http://cdnrede.com:80/Paulao22/nba111/53175
+GloboBrasilia.br,GLOBO BRASILIA SD,http://cdnrede.com:80/Paulao22/nba111/5135
+ext,GLOBO BRASÃLIA SD Â²,http://cdnrede.com:80/Paulao22/nba111/29597
+ext,GLOBO NORDESTE FHD H265,http://cdnrede.com:80/Paulao22/nba111/62745
+ext,GLOBO NORDESTE FHD,http://cdnrede.com:80/Paulao22/nba111/25429
+ext,GLOBO NORDESTE HD,http://cdnrede.com:80/Paulao22/nba111/5126
+Globonordeste.br,GLOBO NORDESTE SD,http://cdnrede.com:80/Paulao22/nba111/5127
+ext,GLOBO EPTV ARARAQUARA SD,http://cdnrede.com:80/Paulao22/nba111/25406
+ext,GLOBO EPTV CAMPINAS FHD H265,http://cdnrede.com:80/Paulao22/nba111/62747
+ext,GLOBO EPTV CAMPINAS FHD,http://cdnrede.com:80/Paulao22/nba111/25430
+ext,GLOBO EPTV CAMPINAS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177938
+ext,GLOBO EPTV CAMPINAS HD,http://cdnrede.com:80/Paulao22/nba111/5132
+ext,GLOBO EPTV CAMPINAS HD Â²,http://cdnrede.com:80/Paulao22/nba111/177937
+ext,GLOBO EPTV CAMPINAS SD,http://cdnrede.com:80/Paulao22/nba111/5133
+ext,GLOBO EPTV CAMPINAS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21316
+ext,GLOBO EPTV RIBEIRÃƒO PRETO FHD H265,http://cdnrede.com:80/Paulao22/nba111/62743
+ext,GLOBO EPTV RIBEIRÃƒO PRETO FHD,http://cdnrede.com:80/Paulao22/nba111/52186
+ext,GLOBO EPTV RIBEIRÃƒO PRETO HD,http://cdnrede.com:80/Paulao22/nba111/5131
+GloboEPTVRibeiraoPreto.br,GLOBO EPTV RIBEIRÃƒO PRETO SD,http://cdnrede.com:80/Paulao22/nba111/5130
+ext,GLOBO EPTV RIBEIRÃƒO PRETO SD Â²,http://cdnrede.com:80/Paulao22/nba111/64405
+ext,GLOBO EPTV SAO CARLOS FHD,http://cdnrede.com:80/Paulao22/nba111/178090
+ext,GLOBO EPTV SAO CARLOS HD,http://cdnrede.com:80/Paulao22/nba111/177952
+ext,GLOBO EPTV SUL DE MG FHD,http://cdnrede.com:80/Paulao22/nba111/172601
+ext,GLOBO EPTV SUL DE MG HD,http://cdnrede.com:80/Paulao22/nba111/172602
+ext,GLOBO EPTV SUL DE MG SD,http://cdnrede.com:80/Paulao22/nba111/172603
+ext,GLOBO EPTV SÃƒO CARLOS SD,http://cdnrede.com:80/Paulao22/nba111/25408
+ext,GLOBO EPTV SÃƒO CARLOS SD Â²,http://cdnrede.com:80/Paulao22/nba111/64404
+ext,GLOBO INTER TV ALTO LITORAL FHD,http://cdnrede.com:80/Paulao22/nba111/52185
+ext,GLOBO INTER TV ALTO LITORAL HD,http://cdnrede.com:80/Paulao22/nba111/52184
+ext,GLOBO INTER TV ALTO LITORAL SD,http://cdnrede.com:80/Paulao22/nba111/52183
+ext,GLOBO INTER TV CABUGI NATAL FHD,http://cdnrede.com:80/Paulao22/nba111/173973
+ext,GLOBO INTER TV CABUGI NATAL HD,http://cdnrede.com:80/Paulao22/nba111/173974
+ext,GLOBO INTER TV CABUGI NATAL SD,http://cdnrede.com:80/Paulao22/nba111/25407
+ext,GLOBO INTER TV DOS VALES FHD,http://cdnrede.com:80/Paulao22/nba111/52182
+ext,GLOBO INTER TV DOS VALES HD,http://cdnrede.com:80/Paulao22/nba111/52181
+ext,GLOBO INTER TV DOS VALES SD,http://cdnrede.com:80/Paulao22/nba111/52180
+ext,GLOBO INTER TV GRANDE MINAS FHD,http://cdnrede.com:80/Paulao22/nba111/52179
+ext,GLOBO INTER TV GRANDE MINAS HD,http://cdnrede.com:80/Paulao22/nba111/52178
+ext,GLOBO INTER TV GRANDE MINAS SD,http://cdnrede.com:80/Paulao22/nba111/52177
+ext,GLOBO INTER TV NATAL SD,http://cdnrede.com:80/Paulao22/nba111/164559
+ext,GLOBO INTER TV SERRA MAR FHD,http://cdnrede.com:80/Paulao22/nba111/52176
+ext,GLOBO INTER TV SERRA MAR HD,http://cdnrede.com:80/Paulao22/nba111/52175
+ext,GLOBO INTER TV SERRA MAR SD,http://cdnrede.com:80/Paulao22/nba111/52174
+ext,GLOBO NSC TV BLUMENAU FHD,http://cdnrede.com:80/Paulao22/nba111/52173
+ext,GLOBO NSC TV BLUMENAU HD,http://cdnrede.com:80/Paulao22/nba111/52172
+ext,GLOBO NSC TV BLUMENAU SD,http://cdnrede.com:80/Paulao22/nba111/52171
+ext,GLOBO NSC TV CENTRO-OESTE FHD,http://cdnrede.com:80/Paulao22/nba111/172616
+ext,GLOBO NSC TV CENTRO-OESTE HD,http://cdnrede.com:80/Paulao22/nba111/172617
+ext,GLOBO NSC TV CENTRO-OESTE SD,http://cdnrede.com:80/Paulao22/nba111/172618
+ext,GLOBO NSC TV CHAPECO FHD,http://cdnrede.com:80/Paulao22/nba111/25446
+ext,GLOBO NSC TV CHAPECO HD,http://cdnrede.com:80/Paulao22/nba111/25445
+ext,GLOBO NSC TV CHAPECO SD,http://cdnrede.com:80/Paulao22/nba111/25444
+ext,GLOBO NSC TV CRICIUMA FHD,http://cdnrede.com:80/Paulao22/nba111/172613
+ext,GLOBO NSC TV CRICIUMA HD,http://cdnrede.com:80/Paulao22/nba111/172614
+ext,GLOBO NSC TV CRICIUMA SD,http://cdnrede.com:80/Paulao22/nba111/172615
+ext,GLOBO NSC TV FLORIANÃ“POLIS FHD,http://cdnrede.com:80/Paulao22/nba111/25428
+ext,GLOBO NSC TV FLORIANÃ“POLIS HD,http://cdnrede.com:80/Paulao22/nba111/5124
+ext,GLOBO NSC TV FLORIANÃ“POLIS HD Â²,http://cdnrede.com:80/Paulao22/nba111/53176
+ext,GLOBO NSC TV FLORIANÃ“POLIS SD,http://cdnrede.com:80/Paulao22/nba111/5125
+ext,GLOBO NSC TV JOINVILLE FHD,http://cdnrede.com:80/Paulao22/nba111/52167
+ext,GLOBO NSC TV JOINVILLE HD,http://cdnrede.com:80/Paulao22/nba111/52166
+ext,GLOBO NSC TV JOINVILLE SD,http://cdnrede.com:80/Paulao22/nba111/52165
+ext,GLOBO RBS P. ALEGRE FHD H265,http://cdnrede.com:80/Paulao22/nba111/62744
+ext,GLOBO RBS P. ALEGRE FHD,http://cdnrede.com:80/Paulao22/nba111/25427
+ext,GLOBO RBS P. ALEGRE HD,http://cdnrede.com:80/Paulao22/nba111/5122
+ext,GLOBO RBS P. ALEGRE SD,http://cdnrede.com:80/Paulao22/nba111/5123
+ext,GLOBO RBS TV CAXIAS DO SUL FHD,http://cdnrede.com:80/Paulao22/nba111/52170
+ext,GLOBO RBS TV CAXIAS DO SUL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/173874
+ext,GLOBO RBS TV CAXIAS DO SUL HD,http://cdnrede.com:80/Paulao22/nba111/52169
+ext,GLOBO RBS TV CAXIAS DO SUL HD Â²,http://cdnrede.com:80/Paulao22/nba111/173875
+ext,GLOBO RBS TV CAXIAS DO SUL SD,http://cdnrede.com:80/Paulao22/nba111/52168
+ext,GLOBO RBS TV PASSO FUNDO FHD,http://cdnrede.com:80/Paulao22/nba111/173950
+ext,GLOBO RBS TV PASSO FUNDO HD,http://cdnrede.com:80/Paulao22/nba111/173951
+ext,GLOBO RBS TV PASSO FUNDO SD,http://cdnrede.com:80/Paulao22/nba111/173952
+ext,GLOBO RBS TV PELOTAS FHD,http://cdnrede.com:80/Paulao22/nba111/52164
+ext,GLOBO RBS TV PELOTAS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/173876
+ext,GLOBO RBS TV PELOTAS HD,http://cdnrede.com:80/Paulao22/nba111/52163
+ext,GLOBO RBS TV PELOTAS HD Â²,http://cdnrede.com:80/Paulao22/nba111/173877
+ext,GLOBO RBS TV PELOTAS SD,http://cdnrede.com:80/Paulao22/nba111/52162
+ext,GLOBO RBS TV SANTA MARIA FHD,http://cdnrede.com:80/Paulao22/nba111/172619
+ext,GLOBO RBS TV SANTA MARIA HD,http://cdnrede.com:80/Paulao22/nba111/172620
+ext,GLOBO RBS TV SANTA MARIA SD,http://cdnrede.com:80/Paulao22/nba111/172621
+ext,GLOBO REDE AMAZÃ”NICA BOA VISTA HD,http://cdnrede.com:80/Paulao22/nba111/164629
+ext,GLOBO REDE AMAZÃ”NICA BOA VISTA SD,http://cdnrede.com:80/Paulao22/nba111/164630
+ext,GLOBO REDE AMAZÃ”NICA MANAUS FHD,http://cdnrede.com:80/Paulao22/nba111/172643
+ext,GLOBO REDE AMAZÃ”NICA MANAUS HD,http://cdnrede.com:80/Paulao22/nba111/172644
+ext,GLOBO REDE AMAZÃ”NICA MANAUS HD Â²,http://cdnrede.com:80/Paulao22/nba111/164584
+ext,GLOBO REDE AMAZÃ”NICA MANAUS SD,http://cdnrede.com:80/Paulao22/nba111/164624
+ext,GLOBO REDE AMAZÃ”NICA PORTO VELHO HD,http://cdnrede.com:80/Paulao22/nba111/164635
+ext,GLOBO REDE AMAZÃ”NICA PORTO VELHO SD,http://cdnrede.com:80/Paulao22/nba111/164636
+ext,GLOBO RPC CASCAVEL FHD,http://cdnrede.com:80/Paulao22/nba111/173970
+ext,GLOBO RPC CASCAVEL HD,http://cdnrede.com:80/Paulao22/nba111/173971
+ext,GLOBO RPC CASCAVEL SD,http://cdnrede.com:80/Paulao22/nba111/173972
+ext,GLOBO RPC CURITIBA FHD,http://cdnrede.com:80/Paulao22/nba111/5107
+ext,GLOBO RPC CURITIBA HD,http://cdnrede.com:80/Paulao22/nba111/5118
+ext,GLOBO RPC CURITIBA HD,http://cdnrede.com:80/Paulao22/nba111/164601
+ext,GLOBO RPC CURITIBA SD,http://cdnrede.com:80/Paulao22/nba111/5119
+ext,GLOBO RPC FOZ DO IGUACU FHD,http://cdnrede.com:80/Paulao22/nba111/25442
+ext,GLOBO RPC FOZ DO IGUACU HD,http://cdnrede.com:80/Paulao22/nba111/25441
+ext,GLOBO RPC FOZ DO IGUACU SD,http://cdnrede.com:80/Paulao22/nba111/25443
+ext,GLOBO RPC LONDRINA FHD,http://cdnrede.com:80/Paulao22/nba111/173953
+ext,GLOBO RPC LONDRINA HD,http://cdnrede.com:80/Paulao22/nba111/173954
+ext,GLOBO RPC LONDRINA SD,http://cdnrede.com:80/Paulao22/nba111/173955
+ext,GLOBO RPC MARINGA FHD,http://cdnrede.com:80/Paulao22/nba111/164561
+ext,GLOBO RPC MARINGA HD,http://cdnrede.com:80/Paulao22/nba111/164562
+ext,GLOBO RPC MARINGA SD,http://cdnrede.com:80/Paulao22/nba111/164563
+ext,GLOBO RPC PARANAENSE HD,http://cdnrede.com:80/Paulao22/nba111/53166
+ext,GLOBO RPC TV PARANAVAI FHD,http://cdnrede.com:80/Paulao22/nba111/172628
+ext,GLOBO RPC TV PARANAVAI HD,http://cdnrede.com:80/Paulao22/nba111/172629
+ext,GLOBO RPC TV PARANAVAI SD,http://cdnrede.com:80/Paulao22/nba111/172630
+ext,GLOBO RPC TV PONTA GROSSA FHD,http://cdnrede.com:80/Paulao22/nba111/172622
+ext,GLOBO RPC TV PONTA GROSSA HD,http://cdnrede.com:80/Paulao22/nba111/172623
+ext,GLOBO RPC TV PONTA GROSSA SD,http://cdnrede.com:80/Paulao22/nba111/172624
+ext,GLOBO TV ANHANGUERA FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30974
+ext,GLOBO TV ANHANGUERA GO FHD,http://cdnrede.com:80/Paulao22/nba111/25426
+ext,GLOBO TV ANHANGUERA GO FHD Â²,http://cdnrede.com:80/Paulao22/nba111/164602
+ext,GLOBO TV ANHANGUERA GO HD,http://cdnrede.com:80/Paulao22/nba111/5114
+ext,GLOBO TV ANHANGUERA GO HD Â²,http://cdnrede.com:80/Paulao22/nba111/164633
+ext,GLOBO TV ANHANGUERA GO SD,http://cdnrede.com:80/Paulao22/nba111/5115
+ext,GLOBO TV ANHANGUERA GO SD,http://cdnrede.com:80/Paulao22/nba111/164597
+ext,GLOBO TV ANHANGUERA GO SD Â²,http://cdnrede.com:80/Paulao22/nba111/164634
+ext,GLOBO TV ASA BRANCA FHD,http://cdnrede.com:80/Paulao22/nba111/172625
+ext,GLOBO TV ASA BRANCA HD,http://cdnrede.com:80/Paulao22/nba111/172626
+ext,GLOBO TV ASA BRANCA SD,http://cdnrede.com:80/Paulao22/nba111/172627
+ext,GLOBO TV BAHIA FHD,http://cdnrede.com:80/Paulao22/nba111/25425
+ext,GLOBO TV BAHIA HD,http://cdnrede.com:80/Paulao22/nba111/5112
+ext,GLOBO TV BAHIA SD,http://cdnrede.com:80/Paulao22/nba111/5113
+ext,GLOBO TV BAHIA SD Â²,http://cdnrede.com:80/Paulao22/nba111/29594
+ext,GLOBO TV CABO BRANCO FHD,http://cdnrede.com:80/Paulao22/nba111/52161
+ext,GLOBO TV CABO BRANCO HD,http://cdnrede.com:80/Paulao22/nba111/52160
+ext,GLOBO TV CABO BRANCO PARAIBA HD,http://cdnrede.com:80/Paulao22/nba111/164586
+ext,GLOBO TV CABO BRANCO SD,http://cdnrede.com:80/Paulao22/nba111/52159
+ext,GLOBO TV CENTRO AMERICA CUIABA SD,http://cdnrede.com:80/Paulao22/nba111/164596
+ext,GLOBO TV CENTRO AMÃ‰RICA CUIABA FHD,http://cdnrede.com:80/Paulao22/nba111/172648
+ext,GLOBO TV CENTRO AMÃ‰RICA CUIABA HD,http://cdnrede.com:80/Paulao22/nba111/172647
+ext,GLOBO TV CENTRO AMÃ‰RICA MT FHD,http://cdnrede.com:80/Paulao22/nba111/164608
+ext,GLOBO TV CENTRO AMÃ‰RICA MT HD,http://cdnrede.com:80/Paulao22/nba111/164609
+ext,GLOBO TV CENTRO AMÃ‰RICA SD,http://cdnrede.com:80/Paulao22/nba111/25411
+ext,GLOBO TV CLUBE TERESINA FHD,http://cdnrede.com:80/Paulao22/nba111/25439
+ext,GLOBO TV CLUBE TERESINA HD,http://cdnrede.com:80/Paulao22/nba111/25438
+ext,GLOBO TV CLUBE TERESINA SD,http://cdnrede.com:80/Paulao22/nba111/25440
+ext,GLOBO TV DIARIO MOGI DAS CRUZES FHD,http://cdnrede.com:80/Paulao22/nba111/178094
+ext,GLOBO TV DIARIO MOGI DAS CRUZES HD,http://cdnrede.com:80/Paulao22/nba111/177954
+ext,GLOBO TV DIARIO MOGI DAS CRUZES SD,http://cdnrede.com:80/Paulao22/nba111/178093
+ext,GLOBO TV FRONTEIRA P. PRUDENTE FHD,http://cdnrede.com:80/Paulao22/nba111/178099
+ext,GLOBO TV FRONTEIRA P. PRUDENTE HD,http://cdnrede.com:80/Paulao22/nba111/177956
+ext,GLOBO TV FRONTEIRA P. PRUDENTE SD,http://cdnrede.com:80/Paulao22/nba111/178098
+ext,GLOBO TV GAZETA ALAGOAS FHD,http://cdnrede.com:80/Paulao22/nba111/25416
+ext,GLOBO TV GAZETA ALAGOAS HD,http://cdnrede.com:80/Paulao22/nba111/25415
+ext,GLOBO TV GAZETA ALAGOAS SD,http://cdnrede.com:80/Paulao22/nba111/25417
+ext,GLOBO TV GAZETA ES FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50886
+ext,GLOBO TV GAZETA SUL ES FHD,http://cdnrede.com:80/Paulao22/nba111/52188
+ext,GLOBO TV GAZETA SUL ES FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172580
+ext,GLOBO TV GAZETA SUL ES HD,http://cdnrede.com:80/Paulao22/nba111/52187
+ext,GLOBO TV GAZETA SUL ES SD Â²,http://cdnrede.com:80/Paulao22/nba111/172581
+ext,GLOBO TV GAZETA SUL FHD,http://cdnrede.com:80/Paulao22/nba111/172610
+ext,GLOBO TV GAZETA SUL HD,http://cdnrede.com:80/Paulao22/nba111/172611
+ext,GLOBO TV GAZETA SUL SD,http://cdnrede.com:80/Paulao22/nba111/172612
+ext,GLOBO TV GAZETA VITORIA HD Â²,http://cdnrede.com:80/Paulao22/nba111/164637
+ext,GLOBO TV GAZETA VITORIA SD Â²,http://cdnrede.com:80/Paulao22/nba111/164638
+ext,GLOBO TV GAZETA VITÃ“RIA FHD,http://cdnrede.com:80/Paulao22/nba111/25436
+ext,GLOBO TV GAZETA VITÃ“RIA HD,http://cdnrede.com:80/Paulao22/nba111/25435
+ext,GLOBO TV GAZETA VITÃ“RIA SD,http://cdnrede.com:80/Paulao22/nba111/25437
+ext,GLOBO TV INTEGRACAO UBERABA FHD,http://cdnrede.com:80/Paulao22/nba111/173978
+ext,GLOBO TV INTEGRACAO UBERABA HD,http://cdnrede.com:80/Paulao22/nba111/173979
+ext,GLOBO TV INTEGRACAO UBERABA SD,http://cdnrede.com:80/Paulao22/nba111/173980
+ext,GLOBO TV INTEGRACAO UBERLANDIA FHD,http://cdnrede.com:80/Paulao22/nba111/178103
+ext,GLOBO TV INTEGRACAO UBERLANDIA HD,http://cdnrede.com:80/Paulao22/nba111/177958
+ext,GLOBO TV INTEGRACAO UBERLANDIA SD,http://cdnrede.com:80/Paulao22/nba111/178102
+ext,GLOBO TV INTEGRAÃ‡ÃƒO ARAXA FHD,http://cdnrede.com:80/Paulao22/nba111/172604
+ext,GLOBO TV INTEGRAÃ‡ÃƒO ARAXA HD,http://cdnrede.com:80/Paulao22/nba111/172605
+ext,GLOBO TV INTEGRAÃ‡ÃƒO ARAXA SD,http://cdnrede.com:80/Paulao22/nba111/172606
+ext,GLOBO TV INTEGRAÃ‡ÃƒO ARAXA SD,http://cdnrede.com:80/Paulao22/nba111/192846
+ext,GLOBO TV INTEGRAÃ‡ÃƒO JUIZ DE FORA FHD,http://cdnrede.com:80/Paulao22/nba111/172607
+ext,GLOBO TV INTEGRAÃ‡ÃƒO JUIZ DE FORA HD,http://cdnrede.com:80/Paulao22/nba111/172608
+ext,GLOBO TV INTEGRAÃ‡ÃƒO JUIZ DE FORA SD,http://cdnrede.com:80/Paulao22/nba111/172609
+ext,GLOBO TV ITNTERNACIONAL HD,http://cdnrede.com:80/Paulao22/nba111/164649
+ext,GLOBO TV LIBERAL BELEM HD,http://cdnrede.com:80/Paulao22/nba111/164639
+ext,GLOBO TV LIBERAL BELEM HD Â²,http://cdnrede.com:80/Paulao22/nba111/164617
+ext,GLOBO TV LIBERAL BELEM SD,http://cdnrede.com:80/Paulao22/nba111/164640
+ext,GLOBO TV LIBERAL BELEM SD,http://cdnrede.com:80/Paulao22/nba111/164564
+ext,GLOBO TV LIBERAL BELEM SD Â²,http://cdnrede.com:80/Paulao22/nba111/164595
+ext,GLOBO TV LIBERAL BELÃ‰M FHD,http://cdnrede.com:80/Paulao22/nba111/172650
+ext,GLOBO TV LIBERAL BELÃ‰M HD,http://cdnrede.com:80/Paulao22/nba111/172649
+ext,GLOBO TV LIBERAL BELÃ‰M SD,http://cdnrede.com:80/Paulao22/nba111/25410
+ext,GLOBO TV MIRANTE COCAIS FHD,http://cdnrede.com:80/Paulao22/nba111/173975
+ext,GLOBO TV MIRANTE COCAIS HD,http://cdnrede.com:80/Paulao22/nba111/173976
+ext,GLOBO TV MIRANTE COCAIS SD,http://cdnrede.com:80/Paulao22/nba111/173977
+ext,GLOBO TV MIRANTE SÃƒO LUIS FHD,http://cdnrede.com:80/Paulao22/nba111/25424
+ext,GLOBO TV MIRANTE SÃƒO LUIS HD,http://cdnrede.com:80/Paulao22/nba111/25423
+ext,GLOBO TV MIRANTE SÃƒO LUIS SD,http://cdnrede.com:80/Paulao22/nba111/25422
+ext,GLOBO TV MORENA CAMPO GRANDE FHD,http://cdnrede.com:80/Paulao22/nba111/25421
+ext,GLOBO TV MORENA CAMPO GRANDE HD,http://cdnrede.com:80/Paulao22/nba111/25420
+ext,GLOBO TV MORENA CAMPO GRANDE SD,http://cdnrede.com:80/Paulao22/nba111/25419
+ext,GLOBO TV NORDESTE RECIFE FHD,http://cdnrede.com:80/Paulao22/nba111/164643
+ext,GLOBO TV NORDESTE RECIFE HD,http://cdnrede.com:80/Paulao22/nba111/164631
+ext,GLOBO TV REDE AMAZONICA BOA VISTA FHD,http://cdnrede.com:80/Paulao22/nba111/178097
+ext,GLOBO TV REDE AMAZONICA MACAPA FHD,http://cdnrede.com:80/Paulao22/nba111/173967
+ext,GLOBO TV REDE AMAZONICA MACAPA HD,http://cdnrede.com:80/Paulao22/nba111/173968
+ext,GLOBO TV REDE AMAZONICA MACAPA SD,http://cdnrede.com:80/Paulao22/nba111/173969
+ext,GLOBO TV REDE AMAZONICA PORTO VELHO FHD,http://cdnrede.com:80/Paulao22/nba111/178101
+ext,GLOBO TV REDE AMAZONICA RIO BRANCO FHD,http://cdnrede.com:80/Paulao22/nba111/178092
+ext,GLOBO TV REDE AMAZONICA RIO BRANCO HD,http://cdnrede.com:80/Paulao22/nba111/177953
+ext,GLOBO TV REDE AMAZONICA RIO BRANCO SD,http://cdnrede.com:80/Paulao22/nba111/178091
+ext,GLOBO TV RIO SUL FHD,http://cdnrede.com:80/Paulao22/nba111/52158
+ext,GLOBO TV RIO SUL HD,http://cdnrede.com:80/Paulao22/nba111/52157
+ext,GLOBO TV RIO SUL SD,http://cdnrede.com:80/Paulao22/nba111/52156
+ext,GLOBO TV SANTA CRUZ FHD,http://cdnrede.com:80/Paulao22/nba111/52155
+ext,GLOBO TV SANTA CRUZ HD,http://cdnrede.com:80/Paulao22/nba111/52154
+ext,GLOBO TV SANTA CRUZ SD,http://cdnrede.com:80/Paulao22/nba111/52153
+ext,GLOBO TV SERGIPE FHD,http://cdnrede.com:80/Paulao22/nba111/25433
+ext,GLOBO TV SERGIPE HD,http://cdnrede.com:80/Paulao22/nba111/25432
+ext,GLOBO TV SERGIPE HD Â²,http://cdnrede.com:80/Paulao22/nba111/53172
+ext,GLOBO TV SERGIPE SD,http://cdnrede.com:80/Paulao22/nba111/25434
+ext,GLOBO TV SUBAE FHD,http://cdnrede.com:80/Paulao22/nba111/173981
+ext,GLOBO TV SUBAE HD,http://cdnrede.com:80/Paulao22/nba111/173982
+ext,GLOBO TV SUBAE SD,http://cdnrede.com:80/Paulao22/nba111/173983
+ext,GLOBO TV SUDOESTE FHD,http://cdnrede.com:80/Paulao22/nba111/173984
+ext,GLOBO TV SUDOESTE HD,http://cdnrede.com:80/Paulao22/nba111/173985
+ext,GLOBO TV SUDOESTE SD,http://cdnrede.com:80/Paulao22/nba111/173986
+ext,GLOBO TV TEM BAURU FHD,http://cdnrede.com:80/Paulao22/nba111/173958
+ext,GLOBO TV TEM BAURU HD,http://cdnrede.com:80/Paulao22/nba111/173959
+ext,GLOBO TV TEM BAURU SD,http://cdnrede.com:80/Paulao22/nba111/5111
+ext,GLOBO TV TEM BAURU SD Â²,http://cdnrede.com:80/Paulao22/nba111/25704
+ext,GLOBO TV TEM ITAPETININGA FHD,http://cdnrede.com:80/Paulao22/nba111/178096
+ext,GLOBO TV TEM ITAPETININGA SD,http://cdnrede.com:80/Paulao22/nba111/178095
+ext,GLOBO TV TEM S.J.R.P FHD,http://cdnrede.com:80/Paulao22/nba111/25418
+ext,GLOBO TV TEM S.J.R.P. HD,http://cdnrede.com:80/Paulao22/nba111/5110
+ext,GLOBO TV TEM S.J.R.P. SD,http://cdnrede.com:80/Paulao22/nba111/5109
+ext,GLOBO TV TEM SOROCABA FHD,http://cdnrede.com:80/Paulao22/nba111/173956
+ext,GLOBO TV TEM SOROCABA HD,http://cdnrede.com:80/Paulao22/nba111/173957
+ext,GLOBO TV TEM SOROCABA SD,http://cdnrede.com:80/Paulao22/nba111/5108
+ext,GLOBO TV TEM SOROCABA SD Â²,http://cdnrede.com:80/Paulao22/nba111/25705
+ext,GLOBO TV TRIBUNA SANTOS FHD,http://cdnrede.com:80/Paulao22/nba111/173960
+ext,GLOBO TV TRIBUNA SANTOS HD,http://cdnrede.com:80/Paulao22/nba111/173961
+ext,GLOBO TV TRIBUNA SANTOS SD,http://cdnrede.com:80/Paulao22/nba111/25450
+ext,GLOBO TV VANGUARDA S.J.D.C FHD,http://cdnrede.com:80/Paulao22/nba111/173962
+ext,GLOBO TV VANGUARDA S.J.D.C FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205685
+ext,GLOBO TV VANGUARDA S.J.D.C HD,http://cdnrede.com:80/Paulao22/nba111/173963
+ext,GLOBO TV VANGUARDA S.J.D.C HD Â²,http://cdnrede.com:80/Paulao22/nba111/205684
+ext,GLOBO TV VANGUARDA S.J.D.C SD,http://cdnrede.com:80/Paulao22/nba111/25449
+ext,GLOBO TV VANGUARDA S.J.D.C SD Â²,http://cdnrede.com:80/Paulao22/nba111/64401
+ext,GLOBO TV VANGUARDA TAUBATE FHD,http://cdnrede.com:80/Paulao22/nba111/178105
+ext,GLOBO TV VANGUARDA TAUBATE HD,http://cdnrede.com:80/Paulao22/nba111/177959
+ext,GLOBO TV VANGUARDA TAUBATE SD,http://cdnrede.com:80/Paulao22/nba111/178104
+ext,GLOBO TV VERDES MARES CARIRI FHD,http://cdnrede.com:80/Paulao22/nba111/173964
+ext,GLOBO TV VERDES MARES CARIRI HD,http://cdnrede.com:80/Paulao22/nba111/173965
+ext,GLOBO TV VERDES MARES CARIRI SD,http://cdnrede.com:80/Paulao22/nba111/173966
+ext,GLOBO TV VERDES MARES CEARA HD,http://cdnrede.com:80/Paulao22/nba111/164619
+ext,GLOBO TV VERDES MARES FHD,http://cdnrede.com:80/Paulao22/nba111/164603
+ext,GLOBO TV VERDES MARES FORTALEZA FHD,http://cdnrede.com:80/Paulao22/nba111/172645
+ext,GLOBO TV VERDES MARES FORTALEZA HD,http://cdnrede.com:80/Paulao22/nba111/172646
+ext,GLOBO TV VERDES MARES HD,http://cdnrede.com:80/Paulao22/nba111/164600
+ext,GLOBO TV VERDES MARES HD Â²,http://cdnrede.com:80/Paulao22/nba111/164618
+ext,GLOBO TV VERDES MARES SD,http://cdnrede.com:80/Paulao22/nba111/25448
+ext,RECORD TV SP FHD H265,http://cdnrede.com:80/Paulao22/nba111/61117
+ext,RECORD TV SP FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/225987
+ext,RECORD TV SP FHD,http://cdnrede.com:80/Paulao22/nba111/4972
+ext,RECORD TV SP FHD Â²,http://cdnrede.com:80/Paulao22/nba111/225988
+ext,RECORD TV SP HD,http://cdnrede.com:80/Paulao22/nba111/4962
+ext,RECORD TV SP HD Â²,http://cdnrede.com:80/Paulao22/nba111/21089
+ext,RECORD TV SP SD,http://cdnrede.com:80/Paulao22/nba111/4965
+ext,RECORD TV SP SD Â²,http://cdnrede.com:80/Paulao22/nba111/21088
+ext,RECORD TV RJ FHD,http://cdnrede.com:80/Paulao22/nba111/29854
+ext,RECORD TV RJ FHD Â²,http://cdnrede.com:80/Paulao22/nba111/225989
+ext,RECORD TV RJ HD,http://cdnrede.com:80/Paulao22/nba111/29850
+ext,RECORD TV RJ HD Â²,http://cdnrede.com:80/Paulao22/nba111/177942
+ext,RECORD TV RJ SD,http://cdnrede.com:80/Paulao22/nba111/22949
+ext,RECORD TV RJ SD Â²,http://cdnrede.com:80/Paulao22/nba111/225990
+ext,RECORD TV RJ SUL FHD,http://cdnrede.com:80/Paulao22/nba111/225999
+ext,RECORD TV RJ SUL HD,http://cdnrede.com:80/Paulao22/nba111/226000
+ext,RECORD TV RJ SUL SD,http://cdnrede.com:80/Paulao22/nba111/226001
+ext,RECORD TV MG FHD,http://cdnrede.com:80/Paulao22/nba111/225991
+ext,RECORD TV MG FHD Â²,http://cdnrede.com:80/Paulao22/nba111/225992
+ext,RECORD TV MG HD,http://cdnrede.com:80/Paulao22/nba111/29849
+ext,RECORD TV MG HD Â²,http://cdnrede.com:80/Paulao22/nba111/164613
+ext,RECORD TV MG SD,http://cdnrede.com:80/Paulao22/nba111/29848
+ext,RECORD TV MG SD Â²,http://cdnrede.com:80/Paulao22/nba111/225993
+ext,RECORD TV ITAPOAN FHD,http://cdnrede.com:80/Paulao22/nba111/164566
+ext,RECORD TV ITAPOAN FHD Â²,http://cdnrede.com:80/Paulao22/nba111/225996
+ext,RECORD TV ITAPOAN HD,http://cdnrede.com:80/Paulao22/nba111/45847
+ext,RECORD TV ITAPOAN HD Â²,http://cdnrede.com:80/Paulao22/nba111/56977
+ext,RECORD TV ITAPOAN SD,http://cdnrede.com:80/Paulao22/nba111/45846
+ext,RECORD TV ITAPOAN SD Â²,http://cdnrede.com:80/Paulao22/nba111/225995
+ext,RECORD TV DF FHD,http://cdnrede.com:80/Paulao22/nba111/225994
+ext,RECORD TV DF HD,http://cdnrede.com:80/Paulao22/nba111/45845
+ext,RECORD TV DF HD Â²,http://cdnrede.com:80/Paulao22/nba111/57918
+ext,RECORD TV DF SD,http://cdnrede.com:80/Paulao22/nba111/45844
+ext,RECORD TV DF SD Â²,http://cdnrede.com:80/Paulao22/nba111/164570
+ext,RECORD TV BELEM FHD,http://cdnrede.com:80/Paulao22/nba111/225997
+ext,RECORD TV BELEM HD,http://cdnrede.com:80/Paulao22/nba111/164567
+ext,RECORD TV BELEM HD Â²,http://cdnrede.com:80/Paulao22/nba111/55883
+ext,RECORD TV BELEM SD,http://cdnrede.com:80/Paulao22/nba111/164568
+ext,RECORD TV BELEM SD Â²,http://cdnrede.com:80/Paulao22/nba111/225998
+ext,RECORD TV RS FHD,http://cdnrede.com:80/Paulao22/nba111/226002
+ext,RECORD TV RS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/226003
+ext,RECORD TV RS HD Â²,http://cdnrede.com:80/Paulao22/nba111/55452
+ext,RECORD TV RS HD,http://cdnrede.com:80/Paulao22/nba111/45843
+ext,RECORD TV RS SD,http://cdnrede.com:80/Paulao22/nba111/45842
+ext,RECORD TV RS SD Â²,http://cdnrede.com:80/Paulao22/nba111/226004
+ext,RECORD TV GO FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/56972
+ext,RECORD TV GO FHD,http://cdnrede.com:80/Paulao22/nba111/164614
+ext,RECORD TV GO HD,http://cdnrede.com:80/Paulao22/nba111/167979
+ext,RECORD TV GO HD Â²,http://cdnrede.com:80/Paulao22/nba111/55450
+ext,RECORD TV GO SD,http://cdnrede.com:80/Paulao22/nba111/167978
+ext,RECORD TV GO SD Â²,http://cdnrede.com:80/Paulao22/nba111/226005
+ext,RECORD TV MANAUS FHD,http://cdnrede.com:80/Paulao22/nba111/226007
+ext,RECORD TV MANAUS HD,http://cdnrede.com:80/Paulao22/nba111/226008
+ext,RECORD TV MANAUS HD Â²,http://cdnrede.com:80/Paulao22/nba111/226014
+ext,RECORD TV MANAUS SD,http://cdnrede.com:80/Paulao22/nba111/226009
+ext,RECORD TV RONDONIA SD,http://cdnrede.com:80/Paulao22/nba111/226006
+ext,RECORD TV RIC MARINGA FHD Â²,http://cdnrede.com:80/Paulao22/nba111/226012
+ext,RECORD TV RIC MARINGA HD Â²,http://cdnrede.com:80/Paulao22/nba111/53168
+ext,RECORD TV THATHI FHD Â²,http://cdnrede.com:80/Paulao22/nba111/195846
+ext,RECORD TV THATHI HD Â²,http://cdnrede.com:80/Paulao22/nba111/195847
+ext,RECORD TV  S.J.R.P HD Â²,http://cdnrede.com:80/Paulao22/nba111/4963
+ext,RECORD TV VITORIA HD  Â²,http://cdnrede.com:80/Paulao22/nba111/55448
+ext,RECORD TV LITORAL E VALE HD Â²,http://cdnrede.com:80/Paulao22/nba111/55447
+ext,RECORD TV ATALAIA HD Â²,http://cdnrede.com:80/Paulao22/nba111/53171
+ext,SBT SP FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/61116
+ext,SBT SP FHD,http://cdnrede.com:80/Paulao22/nba111/4971
+ext,SBT SP HD,http://cdnrede.com:80/Paulao22/nba111/203015
+ext,SBT SP HD Â²,http://cdnrede.com:80/Paulao22/nba111/21085
+Sbtsp.br,SBT SP SD,http://cdnrede.com:80/Paulao22/nba111/4957
+ext,SBT SP SD Â²,http://cdnrede.com:80/Paulao22/nba111/21084
+ext,SBT INTERIOR RJ FHD Â²,http://cdnrede.com:80/Paulao22/nba111/164653
+ext,SBT BSB HD,http://cdnrede.com:80/Paulao22/nba111/164590
+ext,SBT PARANA HD,http://cdnrede.com:80/Paulao22/nba111/164591
+ext,SBT PARANÃ SD,http://cdnrede.com:80/Paulao22/nba111/164598
+ext,SBT RS HD,http://cdnrede.com:80/Paulao22/nba111/56974
+ext,SBT SERGIPE HD,http://cdnrede.com:80/Paulao22/nba111/53170
+ext,SBT TV ALTEROSA FHD Â²,http://cdnrede.com:80/Paulao22/nba111/170289
+ext,SBT TV ALTEROSA HD Â²,http://cdnrede.com:80/Paulao22/nba111/30975
+ext,SBT TV SERRA DOURADA FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/164587
+ext,SBT TV SERRA DOURADA HD Â²,http://cdnrede.com:80/Paulao22/nba111/164588
+ext,SBT VTV CAMPINAS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/195850
+ext,SBT VTV CAMPINAS HD Â²,http://cdnrede.com:80/Paulao22/nba111/195849
+ext,BAND SP FHD H265,http://cdnrede.com:80/Paulao22/nba111/61145
+ext,BAND SP FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/43212
+ext,BAND SP FHD,http://cdnrede.com:80/Paulao22/nba111/4973
+ext,BAND SP HD,http://cdnrede.com:80/Paulao22/nba111/4969
+ext,BAND SP HD Â²,http://cdnrede.com:80/Paulao22/nba111/21095
+Bandsp.br,BAND SP SD,http://cdnrede.com:80/Paulao22/nba111/4970
+ext,BAND SP SD Â²,http://cdnrede.com:80/Paulao22/nba111/21094
+ext,BAND BA SD,http://cdnrede.com:80/Paulao22/nba111/164569
+ext,BAND CAMPINAS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/195848
+ext,BAND CAMPINAS HD Â²,http://cdnrede.com:80/Paulao22/nba111/164610
+ext,BAND DF HD Â²,http://cdnrede.com:80/Paulao22/nba111/164571
+ext,BAND RS HD Â²,http://cdnrede.com:80/Paulao22/nba111/55451
+ext,BAND SE HD Â²,http://cdnrede.com:80/Paulao22/nba111/53173
+ext,BAND TV TAROBA PR HD,http://cdnrede.com:80/Paulao22/nba111/53169
+BandInternacional.ar,BAND INTERNACIONAL SD,http://cdnrede.com:80/Paulao22/nba111/167983
+ext,REDE TV FHD H265,http://cdnrede.com:80/Paulao22/nba111/62740
+ext,REDE TV FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52189
+Redetv.br,REDE TV FHD,http://cdnrede.com:80/Paulao22/nba111/25402
+Redetv.br,REDE TV HD,http://cdnrede.com:80/Paulao22/nba111/4959
+ext,REDE TV HD Â²,http://cdnrede.com:80/Paulao22/nba111/21087
+Redetv.br,REDE TV SD,http://cdnrede.com:80/Paulao22/nba111/4960
+ext,REDE TV SD Â²,http://cdnrede.com:80/Paulao22/nba111/21086
+ext,REDE TV ES FHD Â²,http://cdnrede.com:80/Paulao22/nba111/173865
+ext,REDE TV ES HD Â²,http://cdnrede.com:80/Paulao22/nba111/173866
+ext,REDE TV ES SD Â²,http://cdnrede.com:80/Paulao22/nba111/173867
+ext,REDE TV RS SD,http://cdnrede.com:80/Paulao22/nba111/5954
+ext,TV CULTURA SP FHD H265,http://cdnrede.com:80/Paulao22/nba111/62735
+ext,TV CULTURA SP FHD,http://cdnrede.com:80/Paulao22/nba111/25403
+ext,TV CULTURA SP HD,http://cdnrede.com:80/Paulao22/nba111/22950
+ext,TV CULTURA SP SD,http://cdnrede.com:80/Paulao22/nba111/29852
+ext,TV CULTURA SP SD Â²,http://cdnrede.com:80/Paulao22/nba111/64415
+ext,TV CULTURA ES FHD Â²,http://cdnrede.com:80/Paulao22/nba111/173868
+ext,TV CULTURA ES HD Â²,http://cdnrede.com:80/Paulao22/nba111/173869
+ext,TV CULTURA ES SD Â²,http://cdnrede.com:80/Paulao22/nba111/173870
+ext,FUTURA FHD H265,http://cdnrede.com:80/Paulao22/nba111/59853
+Futura.br,FUTURA FHD,http://cdnrede.com:80/Paulao22/nba111/22636
+Futura.br,FUTURA HD,http://cdnrede.com:80/Paulao22/nba111/4967
+CanaldoBoi.br,CANAL DO BOI SD,http://cdnrede.com:80/Paulao22/nba111/167980
+ext,CANAL DO BOI SD Â²,http://cdnrede.com:80/Paulao22/nba111/194960
+Canalrural.br,CANAL RURAL SD,http://cdnrede.com:80/Paulao22/nba111/66133
+Nbr.br,NBR SD,http://cdnrede.com:80/Paulao22/nba111/4966
+Rci.br,RCI SD,http://cdnrede.com:80/Paulao22/nba111/167982
+Redebrasil.br,REDE BRASIL SD,http://cdnrede.com:80/Paulao22/nba111/4961
+ext,REDE BRASIL SD Â²,http://cdnrede.com:80/Paulao22/nba111/22587
+ext,REDE CNT ES FHD Â²,http://cdnrede.com:80/Paulao22/nba111/173862
+ext,REDE CNT ES HD Â²,http://cdnrede.com:80/Paulao22/nba111/173863
+ext,REDE CNT ES SD Â²,http://cdnrede.com:80/Paulao22/nba111/173864
+ext,TERRA VIVA HD,http://cdnrede.com:80/Paulao22/nba111/4954
+Tvbrasil.br,TV BRASIL SD,http://cdnrede.com:80/Paulao22/nba111/4950
+Tvcamara.br,TV CAMARA SD,http://cdnrede.com:80/Paulao22/nba111/4949
+ext,TV CAMARA SD Â²,http://cdnrede.com:80/Paulao22/nba111/177944
+ext,TV CAMOCIM HD,http://cdnrede.com:80/Paulao22/nba111/22576
+ext,TV CIDADE VERDE HD,http://cdnrede.com:80/Paulao22/nba111/195361
+ext,TV DIARIO FORTALEZA FHD,http://cdnrede.com:80/Paulao22/nba111/55455
+ext,TV DIARIO FORTALEZA HD,http://cdnrede.com:80/Paulao22/nba111/55454
+Tvescola.br,TV ESCOLA SD,http://cdnrede.com:80/Paulao22/nba111/4948
+ext,TV GAZETA FHD H265,http://cdnrede.com:80/Paulao22/nba111/62734
+ext,TV GAZETA SP FHD,http://cdnrede.com:80/Paulao22/nba111/167985
+ext,TV GAZETA SP HD,http://cdnrede.com:80/Paulao22/nba111/4947
+ext,TV GAZETA SP SD,http://cdnrede.com:80/Paulao22/nba111/167986
+Tvjustica.br,TV JUSTICA SD,http://cdnrede.com:80/Paulao22/nba111/4952
+ext,TV JUSTICA SD Â²,http://cdnrede.com:80/Paulao22/nba111/177945
+Tvsenado.br,TV SENADO SD,http://cdnrede.com:80/Paulao22/nba111/4953
+ext,TV SENADO SD Â²,http://cdnrede.com:80/Paulao22/nba111/177946
+ext,TV UNIVESP HD,http://cdnrede.com:80/Paulao22/nba111/169802
+ext,PREMIERE CLUBES FHD H265,http://cdnrede.com:80/Paulao22/nba111/205695
+ext,PREMIERE CLUBES FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30936
+Premiereclubes.br,PREMIERE CLUBES FHD,http://cdnrede.com:80/Paulao22/nba111/5211
+ext,PREMIERE CLUBES FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172418
+Premiereclubes.br,PREMIERE CLUBES HD,http://cdnrede.com:80/Paulao22/nba111/5191
+ext,PREMIERE CLUBES HD Â²,http://cdnrede.com:80/Paulao22/nba111/21253
+Premiereclubes.br,PREMIERE CLUBES SD,http://cdnrede.com:80/Paulao22/nba111/5192
+ext,PREMIERE CLUBES SD Â²,http://cdnrede.com:80/Paulao22/nba111/21252
+ext,PREMIERE 2 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59829
+ext,PREMIERE 2 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30942
+Premiere2.br,PREMIERE 2 FHD,http://cdnrede.com:80/Paulao22/nba111/5210
+ext,PREMIERE 2 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174698
+Premiere2.br,PREMIERE 2 HD,http://cdnrede.com:80/Paulao22/nba111/5203
+ext,PREMIERE 2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21251
+Premiere2.br,PREMIERE 2 SD,http://cdnrede.com:80/Paulao22/nba111/5204
+ext,PREMIERE 2 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21250
+ext,PREMIERE 3 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59828
+ext,PREMIERE 3 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30941
+Premiere3.br,PREMIERE 3 FHD,http://cdnrede.com:80/Paulao22/nba111/5209
+ext,PREMIERE 3 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174697
+Premiere3.br,PREMIERE 3 HD,http://cdnrede.com:80/Paulao22/nba111/5201
+ext,PREMIERE 3 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21249
+Premiere3.br,PREMIERE 3 SD,http://cdnrede.com:80/Paulao22/nba111/5202
+ext,PREMIERE 3 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21248
+ext,PREMIERE 4 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61120
+ext,PREMIERE 4 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30940
+Premiere4.br,PREMIERE 4 FHD,http://cdnrede.com:80/Paulao22/nba111/5208
+ext,PREMIERE 4 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174696
+Premiere4.br,PREMIERE 4 HD,http://cdnrede.com:80/Paulao22/nba111/5199
+ext,PREMIERE 4 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21247
+Premiere4.br,PREMIERE 4 SD,http://cdnrede.com:80/Paulao22/nba111/5200
+ext,PREMIERE 4 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21246
+ext,PREMIERE 5 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59827
+ext,PREMIERE 5 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30939
+ext,PREMIERE 5 FHD,http://cdnrede.com:80/Paulao22/nba111/5207
+ext,PREMIERE 5 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174695
+ext,PREMIERE 5 HD,http://cdnrede.com:80/Paulao22/nba111/5197
+ext,PREMIERE 5 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21245
+Premiere5.br,PREMIERE 5 SD,http://cdnrede.com:80/Paulao22/nba111/5198
+ext,PREMIERE 5 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21244
+ext,PREMIERE 6 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61119
+ext,PREMIERE 6 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30938
+Premiere6.br,PREMIERE 6 FHD,http://cdnrede.com:80/Paulao22/nba111/5206
+ext,PREMIERE 6 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174694
+Premiere6.br,PREMIERE 6 HD,http://cdnrede.com:80/Paulao22/nba111/5195
+ext,PREMIERE 6 HD Â²,http://cdnrede.com:80/Paulao22/nba111/43270
+Premiere6.br,PREMIERE 6 SD,http://cdnrede.com:80/Paulao22/nba111/5196
+ext,PREMIERE 6 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21242
+ext,PREMIERE 7 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61118
+ext,PREMIERE 7 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30937
+Premiere7.br,PREMIERE 7 FHD,http://cdnrede.com:80/Paulao22/nba111/5205
+ext,PREMIERE 7 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174693
+Premiere7.br,PREMIERE 7 HD,http://cdnrede.com:80/Paulao22/nba111/5193
+ext,PREMIERE 7 HD Â²,http://cdnrede.com:80/Paulao22/nba111/43269
+Premiere7.br,PREMIERE 7 SD,http://cdnrede.com:80/Paulao22/nba111/5194
+ext,PREMIERE 7 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21240
+Premiere8.br,PREMIERE 8 SD,http://cdnrede.com:80/Paulao22/nba111/25587
+ext,SPORTV FHD H265,http://cdnrede.com:80/Paulao22/nba111/59821
+ext,SPORTV FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30930
+Sportv.br,SPORTV FHD,http://cdnrede.com:80/Paulao22/nba111/5047
+ext,SPORTV FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172415
+Sportv.br,SPORTV HD,http://cdnrede.com:80/Paulao22/nba111/5012
+ext,SPORTV HD Â²,http://cdnrede.com:80/Paulao22/nba111/21130
+Sportv.br,SPORTV SD,http://cdnrede.com:80/Paulao22/nba111/5017
+ext,SPORTV SD Â²,http://cdnrede.com:80/Paulao22/nba111/21129
+ext,SPORTV 2 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59820
+ext,SPORTV 2 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30932
+sporttv2.pt,SPORTV 2 FHD,http://cdnrede.com:80/Paulao22/nba111/5042
+ext,SPORTV 2 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172416
+sporttv2.pt,SPORTV 2 HD,http://cdnrede.com:80/Paulao22/nba111/5015
+ext,SPORTV 2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21128
+sporttv2.pt,SPORTV 2 SD,http://cdnrede.com:80/Paulao22/nba111/5016
+ext,SPORTV 2 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21127
+ext,SPORTV 3 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59819
+ext,SPORTV 3 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30931
+sporttv3.pt,SPORTV 3 FHD,http://cdnrede.com:80/Paulao22/nba111/5041
+ext,SPORTV 3 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172417
+sporttv3.pt,SPORTV 3 HD,http://cdnrede.com:80/Paulao22/nba111/5013
+ext,SPORTV 3 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21126
+sporttv3.pt,SPORTV 3 SD,http://cdnrede.com:80/Paulao22/nba111/5014
+ext,SPORTV 3 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21125
+ext,BAND SPORTS FHD H265,http://cdnrede.com:80/Paulao22/nba111/59870
+ext,BAND SPORTS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52200
+Bandsports.br,BAND SPORTS FHD,http://cdnrede.com:80/Paulao22/nba111/22652
+ext,BAND SPORTS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172408
+Bandsports.br,BAND SPORTS HD,http://cdnrede.com:80/Paulao22/nba111/5037
+ext,BAND SPORTS HD Â²,http://cdnrede.com:80/Paulao22/nba111/21149
+Bandsports.br,BAND SPORTS SD,http://cdnrede.com:80/Paulao22/nba111/5038
+ext,BAND SPORTS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21148
+ext,ESPN FHD H265,http://cdnrede.com:80/Paulao22/nba111/61134
+ext,ESPN FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30965
+ESPN.uk,ESPN FHD,http://cdnrede.com:80/Paulao22/nba111/5049
+ext,ESPN FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172409
+ESPN.uk,ESPN HD,http://cdnrede.com:80/Paulao22/nba111/5033
+ext,ESPN HD Â²,http://cdnrede.com:80/Paulao22/nba111/21143
+ESPN.uk,ESPN SD,http://cdnrede.com:80/Paulao22/nba111/5034
+ext,ESPN SD Â²,http://cdnrede.com:80/Paulao22/nba111/21142
+ext,ESPN 2 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61133
+ext,ESPN 2 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/67510
+ESPN2.us,ESPN 2 FHD,http://cdnrede.com:80/Paulao22/nba111/64454
+ext,ESPN 2 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172411
+ESPN2.us,ESPN 2 HD,http://cdnrede.com:80/Paulao22/nba111/5030
+ext,ESPN 2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21145
+ESPN2.mx,ESPN 2 SD,http://cdnrede.com:80/Paulao22/nba111/22827
+ext,ESPN 2 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21144
+ext,ESPN 3 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59860
+ext,ESPN 3 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/67509
+ESPN3HD.mx,ESPN 3 FHD,http://cdnrede.com:80/Paulao22/nba111/22641
+ext,ESPN 3 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172412
+ESPN3HD.mx,ESPN 3 HD,http://cdnrede.com:80/Paulao22/nba111/5035
+ext,ESPN 3 HD Â²,http://cdnrede.com:80/Paulao22/nba111/25573
+ESPN3.mx,ESPN 3 SD,http://cdnrede.com:80/Paulao22/nba111/5036
+ext,ESPN 3 SD Â²,http://cdnrede.com:80/Paulao22/nba111/25572
+ext,ESPN 4 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61129
+ext,ESPN 4 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30958
+ESPN4.br,ESPN 4 FHD,http://cdnrede.com:80/Paulao22/nba111/5048
+ext,ESPN 4 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177895
+ESPN4.br,ESPN 4 HD,http://cdnrede.com:80/Paulao22/nba111/5022
+ext,ESPN 4 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21132
+ESPN4.nl,ESPN 4 SD,http://cdnrede.com:80/Paulao22/nba111/5023
+ext,ESPN 4 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21131
+ext,ESPN EXTRA FHD H265,http://cdnrede.com:80/Paulao22/nba111/59859
+ext,ESPN EXTRA FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/67508
+Espnextra.br,ESPN EXTRA FHD,http://cdnrede.com:80/Paulao22/nba111/5039
+ext,ESPN EXTRA FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172410
+Espnextra.br,ESPN EXTRA HD,http://cdnrede.com:80/Paulao22/nba111/5031
+ext,ESPN EXTRA HD Â²,http://cdnrede.com:80/Paulao22/nba111/64430
+Espnextra.br,ESPN EXTRA SD,http://cdnrede.com:80/Paulao22/nba111/5032
+ext,ESPN EXTRA SD Â²,http://cdnrede.com:80/Paulao22/nba111/227795
+ext,FOX SPORTS 2 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61130
+ext,FOX SPORTS 2 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30959
+FoxSports2HD.mx,FOX SPORTS 2 FHD,http://cdnrede.com:80/Paulao22/nba111/5043
+ext,FOX SPORTS 2 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172414
+FoxSports2HD.mx,FOX SPORTS 2 HD,http://cdnrede.com:80/Paulao22/nba111/5020
+ext,FOX SPORTS 2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21134
+FoxSports2.mx,FOX SPORTS 2 SD,http://cdnrede.com:80/Paulao22/nba111/5021
+ext,FOX SPORTS 2 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21133
+ext,FISH TV FHD H265,http://cdnrede.com:80/Paulao22/nba111/61131
+ext,FISH TV FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/62756
+Fishtv.br,FISH TV FHD,http://cdnrede.com:80/Paulao22/nba111/22640
+ext,FISH TV FHD Â²,http://cdnrede.com:80/Paulao22/nba111/227797
+Fishtv.br,FISH TV HD,http://cdnrede.com:80/Paulao22/nba111/5261
+ext,FISH TV HD Â²,http://cdnrede.com:80/Paulao22/nba111/227796
+Fishtv.br,FISH TV SD,http://cdnrede.com:80/Paulao22/nba111/5262
+ext,FISH TV SD Â²,http://cdnrede.com:80/Paulao22/nba111/21136
+ext,OFF FHD H265,http://cdnrede.com:80/Paulao22/nba111/59831
+ext,OFF FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52205
+Off.br,OFF FHD,http://cdnrede.com:80/Paulao22/nba111/22616
+ext,OFF FHD Â²,http://cdnrede.com:80/Paulao22/nba111/227798
+Off.br,OFF HD,http://cdnrede.com:80/Paulao22/nba111/5018
+ext,OFF HD Â²,http://cdnrede.com:80/Paulao22/nba111/21147
+Off.br,OFF SD,http://cdnrede.com:80/Paulao22/nba111/5019
+ext,OFF SD Â²,http://cdnrede.com:80/Paulao22/nba111/21146
+ext,COMBATE FHD H265,http://cdnrede.com:80/Paulao22/nba111/59863
+ext,COMBATE FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30968
+Combate.br,COMBATE FHD,http://cdnrede.com:80/Paulao22/nba111/5214
+ext,COMBATE FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177833
+Combate.br,COMBATE HD,http://cdnrede.com:80/Paulao22/nba111/5212
+ext,COMBATE HD Â²,http://cdnrede.com:80/Paulao22/nba111/21255
+Combate.br,COMBATE SD,http://cdnrede.com:80/Paulao22/nba111/5213
+ext,COMBATE SD Â²,http://cdnrede.com:80/Paulao22/nba111/21254
+ext,CONMEBOL TV HD,http://cdnrede.com:80/Paulao22/nba111/173790
+ext,CONMEBOL TV HD Â²,http://cdnrede.com:80/Paulao22/nba111/173803
+ext,CONMEBOL TV 2 HD,http://cdnrede.com:80/Paulao22/nba111/173791
+ext,CONMEBOL TV 2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/173805
+ext,CONMEBOL TV 3 HD,http://cdnrede.com:80/Paulao22/nba111/173792
+ext,CONMEBOL TV 3 HD Â²,http://cdnrede.com:80/Paulao22/nba111/198619
+ext,CONMEBOL TV 4 HD,http://cdnrede.com:80/Paulao22/nba111/173793
+ext,CONMEBOL TV 4 HD Â²,http://cdnrede.com:80/Paulao22/nba111/198620
+ext,FORMULA 1 TV HD,http://cdnrede.com:80/Paulao22/nba111/195359
+ext,FURACAO LIVE HD,http://cdnrede.com:80/Paulao22/nba111/215790
+ext,PRIME VIDEO HD,http://cdnrede.com:80/Paulao22/nba111/223811
+ext,PRIME VIDEO 2 HD,http://cdnrede.com:80/Paulao22/nba111/224317
+ext,PRIME VIDEO 3 HD,http://cdnrede.com:80/Paulao22/nba111/224318
+ext,DAZN HD,http://cdnrede.com:80/Paulao22/nba111/164753
+DAZN212.it,DAZN 2 HD,http://cdnrede.com:80/Paulao22/nba111/164754
+ext,DAZN 3 HD,http://cdnrede.com:80/Paulao22/nba111/164755
+ext,HBO MAX HD,http://cdnrede.com:80/Paulao22/nba111/214664
+ext,HBO MAX 2 HD,http://cdnrede.com:80/Paulao22/nba111/214665
+ext,HBO MAX 3 HD,http://cdnrede.com:80/Paulao22/nba111/214666
+ext,HBO MAX 4 HD,http://cdnrede.com:80/Paulao22/nba111/221855
+ext,HBO MAX 5 HD,http://cdnrede.com:80/Paulao22/nba111/221856
+ext,STAR+ HD,http://cdnrede.com:80/Paulao22/nba111/214656
+ext,STAR+ 2 HD,http://cdnrede.com:80/Paulao22/nba111/214659
+ext,STAR+ 3 HD,http://cdnrede.com:80/Paulao22/nba111/214660
+ext,STAR+ 4 HD,http://cdnrede.com:80/Paulao22/nba111/221853
+ext,STAR+ 5 HD,http://cdnrede.com:80/Paulao22/nba111/221854
+ext,STAR+ 6 HD,http://cdnrede.com:80/Paulao22/nba111/225422
+ext,STAR+ 7 HD,http://cdnrede.com:80/Paulao22/nba111/225423
+ext,STAR+ 8 HD,http://cdnrede.com:80/Paulao22/nba111/225424
+ext,STAR+ 9 HD,http://cdnrede.com:80/Paulao22/nba111/225425
+ext,STAR+ 10 HD,http://cdnrede.com:80/Paulao22/nba111/225426
+ext,TV NSPORTS HD,http://cdnrede.com:80/Paulao22/nba111/195151
+ext,TV NSPORTS 2 HD,http://cdnrede.com:80/Paulao22/nba111/195152
+ext,TV NSPORTS 3 HD,http://cdnrede.com:80/Paulao22/nba111/195153
+ext,TV NSPORTS 4 HD,http://cdnrede.com:80/Paulao22/nba111/194961
+ext,TV NSPORTS 5 HD,http://cdnrede.com:80/Paulao22/nba111/194962
+ext,TV NSPORTS 6 HD,http://cdnrede.com:80/Paulao22/nba111/224258
+ext,TV NSPORTS 7 HD,http://cdnrede.com:80/Paulao22/nba111/224259
+ext,TV NSPORTS 8 HD,http://cdnrede.com:80/Paulao22/nba111/224260
+ext,TV NSPORTS 9 HD,http://cdnrede.com:80/Paulao22/nba111/224261
+ext,TV NSPORTS 10 HD,http://cdnrede.com:80/Paulao22/nba111/224262
+ElevenSports2.pl,ELEVEN SPORTS HD,http://cdnrede.com:80/Paulao22/nba111/195858
+ElevenSports2.pl,ELEVEN SPORTS 2 HD,http://cdnrede.com:80/Paulao22/nba111/195859
+ElevenSports3.pl,ELEVEN SPORTS 3 HD,http://cdnrede.com:80/Paulao22/nba111/195860
+ElevenSports4.pl,ELEVEN SPORTS 4 HD,http://cdnrede.com:80/Paulao22/nba111/201774
+ext,ELEVEN SPORTS 5 HD,http://cdnrede.com:80/Paulao22/nba111/201775
+ext,ELEVEN SPORTS 6 HD,http://cdnrede.com:80/Paulao22/nba111/205696
+ext,ELEVEN SPORTS 7 HD,http://cdnrede.com:80/Paulao22/nba111/205697
+ext,ELEVEN SPORTS 8 HD,http://cdnrede.com:80/Paulao22/nba111/205698
+ext,ELEVEN SPORTS 9 HD,http://cdnrede.com:80/Paulao22/nba111/205700
+ext,ELEVEN SPORTS 10 HD,http://cdnrede.com:80/Paulao22/nba111/205699
+ext,ESTADIO TNT SPORTS HD,http://cdnrede.com:80/Paulao22/nba111/53165
+ext,ESTADIO TNT SPORTS 2 HD,http://cdnrede.com:80/Paulao22/nba111/162042
+ext,ESTADIO TNT SPORTS 3 HD,http://cdnrede.com:80/Paulao22/nba111/162043
+ext,ESTADIO TNT SPORTS 4 HD,http://cdnrede.com:80/Paulao22/nba111/201772
+ext,ESTADIO TNT SPORTS 5 HD,http://cdnrede.com:80/Paulao22/nba111/201773
+ext,ESTADIO TNT SPORTS 6 HD,http://cdnrede.com:80/Paulao22/nba111/224594
+ext,ESTADIO TNT SPORTS 7 HD,http://cdnrede.com:80/Paulao22/nba111/224593
+ext,ESTADIO TNT SPORTS 8 HD,http://cdnrede.com:80/Paulao22/nba111/224592
+ext,ESTADIO TNT SPORTS 9 HD,http://cdnrede.com:80/Paulao22/nba111/224591
+ext,ESTADIO TNT SPORTS 10 HD,http://cdnrede.com:80/Paulao22/nba111/224590
+ext,TELECINE ACTION FHD H265,http://cdnrede.com:80/Paulao22/nba111/59815
+ext,TELECINE ACTION FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30927
+Tcaction.br,TELECINE ACTION FHD,http://cdnrede.com:80/Paulao22/nba111/5233
+ext,TELECINE ACTION FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174688
+Tcaction.br,TELECINE ACTION HD,http://cdnrede.com:80/Paulao22/nba111/5227
+ext,TELECINE ACTION HD Â²,http://cdnrede.com:80/Paulao22/nba111/21271
+Tcaction.br,TELECINE ACTION SD,http://cdnrede.com:80/Paulao22/nba111/5228
+ext,TELECINE ACTION SD Â²,http://cdnrede.com:80/Paulao22/nba111/21270
+ext,TELECINE CULT FHD H265,http://cdnrede.com:80/Paulao22/nba111/59814
+ext,TELECINE CULT FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30926
+Tccult.br,TELECINE CULT FHD,http://cdnrede.com:80/Paulao22/nba111/22607
+ext,TELECINE CULT FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174692
+Tccult.br,TELECINE CULT HD,http://cdnrede.com:80/Paulao22/nba111/5225
+ext,TELECINE CULT HD Â²,http://cdnrede.com:80/Paulao22/nba111/21268
+Tccult.br,TELECINE CULT SD,http://cdnrede.com:80/Paulao22/nba111/5226
+ext,TELECINE CULT SD Â²,http://cdnrede.com:80/Paulao22/nba111/21269
+ext,TELECINE FUN FHD H265,http://cdnrede.com:80/Paulao22/nba111/59813
+ext,TELECINE FUN FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30925
+Tcfun.br,TELECINE FUN FHD,http://cdnrede.com:80/Paulao22/nba111/5232
+ext,TELECINE FUN FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174691
+Tcfun.br,TELECINE FUN HD,http://cdnrede.com:80/Paulao22/nba111/5223
+ext,TELECINE FUN HD Â²,http://cdnrede.com:80/Paulao22/nba111/21267
+Tcfun.br,TELECINE FUN SD,http://cdnrede.com:80/Paulao22/nba111/5224
+ext,TELECINE FUN SD Â²,http://cdnrede.com:80/Paulao22/nba111/21266
+ext,TELECINE PIPOCA FHD H265,http://cdnrede.com:80/Paulao22/nba111/59812
+ext,TELECINE PIPOCA FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30924
+Tcpipoca.br,TELECINE PIPOCA FHD,http://cdnrede.com:80/Paulao22/nba111/5231
+ext,TELECINE PIPOCA FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174690
+Tcpipoca.br,TELECINE PIPOCA HD,http://cdnrede.com:80/Paulao22/nba111/5221
+ext,TELECINE PIPOCA HD Â²,http://cdnrede.com:80/Paulao22/nba111/21265
+Tcpipoca.br,TELECINE PIPOCA SD,http://cdnrede.com:80/Paulao22/nba111/5222
+ext,TELECINE PIPOCA SD Â²,http://cdnrede.com:80/Paulao22/nba111/21264
+ext,TELECINE PREMIUM FHD H265,http://cdnrede.com:80/Paulao22/nba111/59811
+ext,TELECINE PREMIUM FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30923
+Tcpremium.br,TELECINE PREMIUM FHD,http://cdnrede.com:80/Paulao22/nba111/5230
+ext,TELECINE PREMIUM FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174687
+Tcpremium.br,TELECINE PREMIUM HD,http://cdnrede.com:80/Paulao22/nba111/5219
+ext,TELECINE PREMIUM HD Â²,http://cdnrede.com:80/Paulao22/nba111/21263
+Tcpremium.br,TELECINE PREMIUM SD,http://cdnrede.com:80/Paulao22/nba111/5220
+ext,TELECINE PREMIUM SD Â²,http://cdnrede.com:80/Paulao22/nba111/21262
+ext,TELECINE TOUCH FHD H265,http://cdnrede.com:80/Paulao22/nba111/59810
+ext,TELECINE TOUCH FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30922
+Tctouch.br,TELECINE TOUCH FHD,http://cdnrede.com:80/Paulao22/nba111/5229
+ext,TELECINE TOUCH FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174689
+Tctouch.br,TELECINE TOUCH HD,http://cdnrede.com:80/Paulao22/nba111/5217
+ext,TELECINE TOUCH HD Â²,http://cdnrede.com:80/Paulao22/nba111/21261
+Tctouch.br,TELECINE TOUCH SD,http://cdnrede.com:80/Paulao22/nba111/5218
+ext,TELECINE TOUCH SD Â²,http://cdnrede.com:80/Paulao22/nba111/21260
+ext,HBO FHD H265,http://cdnrede.com:80/Paulao22/nba111/59847
+ext,HBO FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52191
+HBO.hu,HBO FHD,http://cdnrede.com:80/Paulao22/nba111/5150
+ext,HBO FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174679
+HBO.hu,HBO HD,http://cdnrede.com:80/Paulao22/nba111/5144
+ext,HBO HD Â²,http://cdnrede.com:80/Paulao22/nba111/21197
+HBOAdria.rs,HBO SD,http://cdnrede.com:80/Paulao22/nba111/5149
+ext,HBO SD Â²,http://cdnrede.com:80/Paulao22/nba111/21192
+ext,HBO 2 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59849
+ext,HBO 2 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30956
+HBO2.pl,HBO 2 FHD,http://cdnrede.com:80/Paulao22/nba111/5151
+ext,HBO 2 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174680
+HBO2.pl,HBO 2 HD,http://cdnrede.com:80/Paulao22/nba111/5147
+ext,HBO 2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21201
+HBO2.cz,HBO 2 SD,http://cdnrede.com:80/Paulao22/nba111/5148
+ext,HBO 2 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21200
+ext,HBO FAMILY FHD H265,http://cdnrede.com:80/Paulao22/nba111/59848
+ext,HBO FAMILY FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52192
+HBOFamilyHD.cl,HBO FAMILY FHD,http://cdnrede.com:80/Paulao22/nba111/22631
+ext,HBO FAMILY FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174682
+HBOFamilyHD.cl,HBO FAMILY HD,http://cdnrede.com:80/Paulao22/nba111/5145
+ext,HBO FAMILY HD Â²,http://cdnrede.com:80/Paulao22/nba111/21199
+Hbofamily.br,HBO FAMILY SD,http://cdnrede.com:80/Paulao22/nba111/5146
+ext,HBO FAMILY SD Â²,http://cdnrede.com:80/Paulao22/nba111/21198
+ext,HBO MUNDI FHD H265,http://cdnrede.com:80/Paulao22/nba111/59841
+ext,HBO MUNDI FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50868
+Max.br,HBO MUNDI FHD,http://cdnrede.com:80/Paulao22/nba111/22626
+ext,HBO MUNDI FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174684
+Max.br,HBO MUNDI HD,http://cdnrede.com:80/Paulao22/nba111/5078
+ext,HBO MUNDI HD Â²,http://cdnrede.com:80/Paulao22/nba111/21177
+Max.br,HBO MUNDI SD,http://cdnrede.com:80/Paulao22/nba111/5079
+ext,HBO MUNDI SD Â²,http://cdnrede.com:80/Paulao22/nba111/21172
+ext,HBO PLUS FHD H265,http://cdnrede.com:80/Paulao22/nba111/59846
+ext,HBO PLUS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30952
+Hboplus.br,HBO PLUS FHD,http://cdnrede.com:80/Paulao22/nba111/22630
+ext,HBO PLUS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174681
+Hboplus.br,HBO PLUS HD,http://cdnrede.com:80/Paulao22/nba111/5141
+ext,HBO PLUS HD Â²,http://cdnrede.com:80/Paulao22/nba111/21194
+Hboplus.br,HBO PLUS SD,http://cdnrede.com:80/Paulao22/nba111/5143
+ext,HBO PLUS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21193
+ext,HBO POP FHD H265,http://cdnrede.com:80/Paulao22/nba111/59839
+ext,HBO POP FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52190
+ext,HBO POP FHD,http://cdnrede.com:80/Paulao22/nba111/22624
+ext,HBO POP FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174686
+ext,HBO POP HD,http://cdnrede.com:80/Paulao22/nba111/5073
+ext,HBO POP HD Â²,http://cdnrede.com:80/Paulao22/nba111/21171
+Maxup.br,HBO POP SD,http://cdnrede.com:80/Paulao22/nba111/5074
+ext,HBO POP SD Â²,http://cdnrede.com:80/Paulao22/nba111/21170
+ext,HBO SIGNATURE FHD H265,http://cdnrede.com:80/Paulao22/nba111/59845
+ext,HBO SIGNATURE FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30957
+HBOSignature.us,HBO SIGNATURE FHD,http://cdnrede.com:80/Paulao22/nba111/22629
+ext,HBO SIGNATURE FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174683
+HBOSignature.us,HBO SIGNATURE HD,http://cdnrede.com:80/Paulao22/nba111/5139
+ext,HBO SIGNATURE HD Â²,http://cdnrede.com:80/Paulao22/nba111/21191
+HBOSignature.mx,HBO SIGNATURE SD,http://cdnrede.com:80/Paulao22/nba111/5140
+ext,HBO SIGNATURE SD Â²,http://cdnrede.com:80/Paulao22/nba111/21190
+ext,HBO XTREME FHD H265,http://cdnrede.com:80/Paulao22/nba111/59840
+ext,HBO XTREME FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50869
+Maxprime.br,HBO XTREME FHD,http://cdnrede.com:80/Paulao22/nba111/22625
+ext,HBO XTREME FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174685
+Maxprime.br,HBO XTREME HD,http://cdnrede.com:80/Paulao22/nba111/5075
+ext,HBO XTREME HD Â²,http://cdnrede.com:80/Paulao22/nba111/21174
+Maxprime.br,HBO XTREME SD,http://cdnrede.com:80/Paulao22/nba111/5077
+ext,HBO XTREME SD Â²,http://cdnrede.com:80/Paulao22/nba111/21173
+ext,A&E FHD H265,http://cdnrede.com:80/Paulao22/nba111/61147
+ext,A&E FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30973
+Aehd.br,A&E FHD,http://cdnrede.com:80/Paulao22/nba111/22656
+ext,A&E FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228138
+Aehd.br,A&E HD,http://cdnrede.com:80/Paulao22/nba111/5100
+ext,A&E HD Â²,http://cdnrede.com:80/Paulao22/nba111/21189
+AE.ca,A&E SD,http://cdnrede.com:80/Paulao22/nba111/5101
+ext,A&E SD Â²,http://cdnrede.com:80/Paulao22/nba111/21188
+ext,AMC FHD H265,http://cdnrede.com:80/Paulao22/nba111/61146
+ext,AMC FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50873
+AMC.uk,AMC FHD,http://cdnrede.com:80/Paulao22/nba111/22655
+ext,AMC FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228139
+AMC.uk,AMC HD,http://cdnrede.com:80/Paulao22/nba111/5098
+ext,AMC HD Â²,http://cdnrede.com:80/Paulao22/nba111/21187
+mgm-int,AMC SD,http://cdnrede.com:80/Paulao22/nba111/5099
+ext,AMC SD Â²,http://cdnrede.com:80/Paulao22/nba111/21186
+ext,AXN FHD H265,http://cdnrede.com:80/Paulao22/nba111/59872
+ext,AXN FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30972
+AXN.it,AXN FHD,http://cdnrede.com:80/Paulao22/nba111/22653
+ext,AXN FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228140
+AXN.it,AXN HD,http://cdnrede.com:80/Paulao22/nba111/5096
+ext,AXN HD Â²,http://cdnrede.com:80/Paulao22/nba111/21185
+AXN.bg,AXN SD,http://cdnrede.com:80/Paulao22/nba111/5097
+ext,AXN SD Â²,http://cdnrede.com:80/Paulao22/nba111/21184
+ext,CANAL BRASIL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/62755
+ext,CANAL BRASIL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59867
+Canalbrasil.br,CANAL BRASIL FHD,http://cdnrede.com:80/Paulao22/nba111/25404
+ext,CANAL BRASIL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228142
+Canalbrasil.br,CANAL BRASIL HD,http://cdnrede.com:80/Paulao22/nba111/5094
+ext,CANAL BRASIL HD Â²,http://cdnrede.com:80/Paulao22/nba111/228141
+Canalbrasil.br,CANAL BRASIL SD,http://cdnrede.com:80/Paulao22/nba111/5095
+ext,CINECANAL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59856
+ext,CINECANAL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/228144
+CinecanalHD.mx,CINECANAL FHD,http://cdnrede.com:80/Paulao22/nba111/22638
+ext,CINECANAL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228143
+CinecanalHD.mx,CINECANAL HD,http://cdnrede.com:80/Paulao22/nba111/5086
+ext,CINECANAL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21287
+CinecanalW.mx,CINECANAL SD,http://cdnrede.com:80/Paulao22/nba111/5087
+ext,CINECANAL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21286
+ext,CANAL SONY FHD H265,http://cdnrede.com:80/Paulao22/nba111/59866
+ext,CANAL SONY FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30970
+Sony.br,CANAL SONY FHD,http://cdnrede.com:80/Paulao22/nba111/22651
+ext,CANAL SONY FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228145
+Sony.br,CANAL SONY HD,http://cdnrede.com:80/Paulao22/nba111/5092
+ext,CANAL SONY HD Â²,http://cdnrede.com:80/Paulao22/nba111/21165
+Sony.br,CANAL SONY SD,http://cdnrede.com:80/Paulao22/nba111/5093
+ext,CANAL SONY SD Â²,http://cdnrede.com:80/Paulao22/nba111/21164
+ext,CINE SKY PLAY 1 HD,http://cdnrede.com:80/Paulao22/nba111/173941
+ext,CINE SKY PLAY 2 HD,http://cdnrede.com:80/Paulao22/nba111/173942
+ext,CINE SKY PLAY 3 HD,http://cdnrede.com:80/Paulao22/nba111/173943
+ext,CINE SKY PLAY 4 HD,http://cdnrede.com:80/Paulao22/nba111/173944
+ext,CINE SKY PLAY 5 HD,http://cdnrede.com:80/Paulao22/nba111/173945
+ext,CINE SKY PLAY 6 HD,http://cdnrede.com:80/Paulao22/nba111/173946
+ext,CINE SKY PLAY 7 HD,http://cdnrede.com:80/Paulao22/nba111/173947
+ext,CINE SKY PLAY 8 HD,http://cdnrede.com:80/Paulao22/nba111/173948
+ext,CINE SKY PLAY 9 HD,http://cdnrede.com:80/Paulao22/nba111/173949
+ext,CINEMAX FHD H265,http://cdnrede.com:80/Paulao22/nba111/59864
+ext,CINEMAX FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50876
+CineMAX.ro,CINEMAX FHD,http://cdnrede.com:80/Paulao22/nba111/22649
+ext,CINEMAX FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228146
+CineMAX.ro,CINEMAX HD,http://cdnrede.com:80/Paulao22/nba111/5090
+ext,CINEMAX HD Â²,http://cdnrede.com:80/Paulao22/nba111/21183
+CinemaxO.mx,CINEMAX SD,http://cdnrede.com:80/Paulao22/nba111/5091
+ext,CINEMAX SD Â²,http://cdnrede.com:80/Paulao22/nba111/21182
+FilmArts.ar,FILM & ARTS SD,http://cdnrede.com:80/Paulao22/nba111/64456
+ext,FILM & ARTS SD Â²,http://cdnrede.com:80/Paulao22/nba111/177943
+ext,FX FHD H265,http://cdnrede.com:80/Paulao22/nba111/59852
+ext,FX FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30946
+FXHD.mx,FX FHD,http://cdnrede.com:80/Paulao22/nba111/22635
+ext,FX FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228147
+FXHD.mx,FX HD,http://cdnrede.com:80/Paulao22/nba111/5080
+ext,FX HD Â²,http://cdnrede.com:80/Paulao22/nba111/21179
+FX.uk,FX SD,http://cdnrede.com:80/Paulao22/nba111/5081
+ext,FX SD Â²,http://cdnrede.com:80/Paulao22/nba111/21178
+ext,MEGAPIX FHD H265,http://cdnrede.com:80/Paulao22/nba111/59838
+ext,MEGAPIX FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52211
+Megapix.br,MEGAPIX FHD,http://cdnrede.com:80/Paulao22/nba111/22623
+ext,MEGAPIX FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228148
+Megapix.br,MEGAPIX HD,http://cdnrede.com:80/Paulao22/nba111/5071
+ext,MEGAPIX HD Â²,http://cdnrede.com:80/Paulao22/nba111/21169
+Megapix.br,MEGAPIX SD,http://cdnrede.com:80/Paulao22/nba111/5072
+ext,MEGAPIX SD Â²,http://cdnrede.com:80/Paulao22/nba111/21168
+ext,PARAMOUNT FHD H265,http://cdnrede.com:80/Paulao22/nba111/59830
+ext,PARAMOUNT FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50871
+ParamountChannel.fr,PARAMOUNT FHD,http://cdnrede.com:80/Paulao22/nba111/22615
+ext,PARAMOUNT FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228149
+ParamountChannel.fr,PARAMOUNT HD,http://cdnrede.com:80/Paulao22/nba111/5069
+ext,PARAMOUNT HD Â²,http://cdnrede.com:80/Paulao22/nba111/21167
+Paramount.uk,PARAMOUNT SD,http://cdnrede.com:80/Paulao22/nba111/5070
+ext,PARAMOUNT SD Â²,http://cdnrede.com:80/Paulao22/nba111/21166
+ext,PRIME BOX BRAZIL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59824
+ext,PRIME BOX BRAZIL FHD,http://cdnrede.com:80/Paulao22/nba111/22613
+ext,PRIME BOX BRAZIL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228151
+ext,PRIME BOX BRAZIL HD,http://cdnrede.com:80/Paulao22/nba111/5245
+ext,PRIME BOX BRAZIL HD Â²,http://cdnrede.com:80/Paulao22/nba111/228150
+ext,PRIME BOX BRAZIL SD,http://cdnrede.com:80/Paulao22/nba111/5246
+ext,PRIME BOX BRAZIL SD Â²,http://cdnrede.com:80/Paulao22/nba111/29588
+ext,SPACE FHD H265,http://cdnrede.com:80/Paulao22/nba111/59822
+ext,SPACE FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30933
+SpaceHD.mx,SPACE FHD,http://cdnrede.com:80/Paulao22/nba111/22611
+ext,SPACE FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228152
+SpaceHD.mx,SPACE HD,http://cdnrede.com:80/Paulao22/nba111/5065
+ext,SPACE HD Â²,http://cdnrede.com:80/Paulao22/nba111/21163
+Space.br,SPACE SD,http://cdnrede.com:80/Paulao22/nba111/5066
+ext,SPACE SD Â²,http://cdnrede.com:80/Paulao22/nba111/21162
+ext,STAR CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59857
+ext,STAR CHANNEL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30960
+ext,STAR CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/5106
+ext,STAR CHANNEL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228153
+ext,STAR CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/5088
+ext,STAR CHANNEL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21181
+otr,STAR CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/5089
+ext,STAR CHANNEL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21180
+ext,STUDIO UNIVERSAL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59818
+ext,STUDIO UNIVERSAL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30929
+StudioUniversalHD.cl,STUDIO UNIVERSAL FHD,http://cdnrede.com:80/Paulao22/nba111/22610
+ext,STUDIO UNIVERSAL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228154
+StudioUniversalHD.cl,STUDIO UNIVERSAL HD,http://cdnrede.com:80/Paulao22/nba111/5063
+ext,STUDIO UNIVERSAL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21161
+StudioUniversal.it,STUDIO UNIVERSAL SD,http://cdnrede.com:80/Paulao22/nba111/5064
+ext,STUDIO UNIVERSAL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21160
+ext,SYFY FHD H265,http://cdnrede.com:80/Paulao22/nba111/59817
+ext,SYFY FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50874
+SCIFI.uk,SYFY FHD,http://cdnrede.com:80/Paulao22/nba111/22609
+ext,SYFY FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228155
+SCIFI.uk,SYFY HD,http://cdnrede.com:80/Paulao22/nba111/5067
+ext,SYFY HD Â²,http://cdnrede.com:80/Paulao22/nba111/21159
+SCIFI.uk,SYFY SD,http://cdnrede.com:80/Paulao22/nba111/5068
+ext,SYFY SD Â²,http://cdnrede.com:80/Paulao22/nba111/21158
+ext,TBS FHD H265,http://cdnrede.com:80/Paulao22/nba111/59816
+ext,TBS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30928
+TBSHD.us,TBS FHD,http://cdnrede.com:80/Paulao22/nba111/22608
+ext,TBS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228156
+TBSHD.us,TBS HD,http://cdnrede.com:80/Paulao22/nba111/5059
+ext,TBS HD Â²,http://cdnrede.com:80/Paulao22/nba111/29586
+24dok,TBS SD,http://cdnrede.com:80/Paulao22/nba111/5060
+TCM.uk,TCM FHD,http://cdnrede.com:80/Paulao22/nba111/228159
+ext,TCM FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228160
+TCM.uk,TCM HD,http://cdnrede.com:80/Paulao22/nba111/228157
+ext,TCM HD Â²,http://cdnrede.com:80/Paulao22/nba111/228158
+TCM.uk,TCM SD,http://cdnrede.com:80/Paulao22/nba111/5058
+ext,TCM SD Â²,http://cdnrede.com:80/Paulao22/nba111/21313
+ext,TNT FHD H265,http://cdnrede.com:80/Paulao22/nba111/59809
+ext,TNT FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30921
+tnt,TNT FHD,http://cdnrede.com:80/Paulao22/nba111/22605
+ext,TNT FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177939
+tnt,TNT HD,http://cdnrede.com:80/Paulao22/nba111/5056
+ext,TNT HD Â²,http://cdnrede.com:80/Paulao22/nba111/21157
+tnt,TNT SD,http://cdnrede.com:80/Paulao22/nba111/5057
+ext,TNT SD Â²,http://cdnrede.com:80/Paulao22/nba111/21156
+ext,TNT SERIES FHD H265,http://cdnrede.com:80/Paulao22/nba111/59808
+ext,TNT SERIES FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30920
+TNTSeries.cl,TNT SERIES FHD,http://cdnrede.com:80/Paulao22/nba111/22604
+ext,TNT SERIES FHD  Â²,http://cdnrede.com:80/Paulao22/nba111/228161
+TNTSeries.cl,TNT SERIES HD,http://cdnrede.com:80/Paulao22/nba111/5054
+ext,TNT SERIES HD Â²,http://cdnrede.com:80/Paulao22/nba111/21155
+TNTSeries.cl,TNT SERIES SD,http://cdnrede.com:80/Paulao22/nba111/5055
+ext,TNT SERIES SD Â²,http://cdnrede.com:80/Paulao22/nba111/21154
+ext,UNIVERSAL CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59806
+ext,UNIVERSAL CHANNEL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30919
+Universal.uk,UNIVERSAL CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/22601
+ext,UNIVERSAL CHANNEL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228162
+Universal.uk,UNIVERSAL CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/5052
+ext,UNIVERSAL CHANNEL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21153
+Universal.uk,UNIVERSAL CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/5053
+ext,UNIVERSAL CHANNEL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21152
+ext,WARNER CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59803
+ext,WARNER CHANNEL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30918
+WarnerChannelHD.ar,WARNER CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/5102
+ext,WARNER CHANNEL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228163
+WarnerChannelHD.ar,WARNER CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/5050
+ext,WARNER CHANNEL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21151
+WarnerChannel.mx,WARNER CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/5051
+ext,WARNER CHANNEL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21150
+ext,BORA FILMES HD,http://cdnrede.com:80/Paulao22/nba111/214001
+ext,BORA FILMES HD Â²,http://cdnrede.com:80/Paulao22/nba111/228167
+ext,ENTRETENDO HD,http://cdnrede.com:80/Paulao22/nba111/214000
+ext,ENTRETENDO HD Â²,http://cdnrede.com:80/Paulao22/nba111/228166
+ext,URBAN MOVIES HD,http://cdnrede.com:80/Paulao22/nba111/213989
+ext,URBAN MOVIES HD Â²,http://cdnrede.com:80/Paulao22/nba111/228165
+ext,URBAN SERIES HD,http://cdnrede.com:80/Paulao22/nba111/213993
+ext,URBAN SERIES HD Â²,http://cdnrede.com:80/Paulao22/nba111/228164
+ext,URBAN RETRO HD,http://cdnrede.com:80/Paulao22/nba111/228183
+ext,ANIMAL PLANET FHD H265,http://cdnrede.com:80/Paulao22/nba111/59874
+ext,ANIMAL PLANET FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50880
+animal-hd,ANIMAL PLANET FHD,http://cdnrede.com:80/Paulao22/nba111/5010
+ext,ANIMAL PLANET FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177747
+animal-hd,ANIMAL PLANET HD,http://cdnrede.com:80/Paulao22/nba111/5003
+ext,ANIMAL PLANET HD Â²,http://cdnrede.com:80/Paulao22/nba111/21124
+animal_rus,ANIMAL PLANET SD,http://cdnrede.com:80/Paulao22/nba111/5004
+ext,ANIMAL PLANET SD Â²,http://cdnrede.com:80/Paulao22/nba111/21123
+ext,DISCOVERY CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/62749
+ext,DISCOVERY CHANNEL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50879
+discov_rus-hd,DISCOVERY CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/5011
+ext,DISCOVERY CHANNEL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177750
+discov_rus-hd,DISCOVERY CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/5001
+ext,DISCOVERY CHANNEL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21122
+discov_rus,DISCOVERY CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/5002
+ext,DISCOVERY CHANNEL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21121
+ext,DISCOVERY SCIENCE FHD H265,http://cdnrede.com:80/Paulao22/nba111/61141
+ext,DISCOVERY SCIENCE FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30966
+discov_sci,DISCOVERY SCIENCE FHD,http://cdnrede.com:80/Paulao22/nba111/22645
+ext,DISCOVERY SCIENCE FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174614
+discov_sci,DISCOVERY SCIENCE HD,http://cdnrede.com:80/Paulao22/nba111/4995
+ext,DISCOVERY SCIENCE HD Â²,http://cdnrede.com:80/Paulao22/nba111/31003
+discov_sci,DISCOVERY SCIENCE SD,http://cdnrede.com:80/Paulao22/nba111/4996
+ext,DISCOVERY THEATER FHD H265,http://cdnrede.com:80/Paulao22/nba111/61140
+ext,DISCOVERY THEATER FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50882
+DiscoveryTheatreHD.ar,DISCOVERY THEATER FHD,http://cdnrede.com:80/Paulao22/nba111/22644
+ext,DISCOVERY THEATER FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174786
+DiscoveryTheatreHD.ar,DISCOVERY THEATER HD,http://cdnrede.com:80/Paulao22/nba111/4993
+ext,DISCOVERY THEATER HD Â²,http://cdnrede.com:80/Paulao22/nba111/21117
+DiscoveryTheatreHD.ar,DISCOVERY THEATER SD,http://cdnrede.com:80/Paulao22/nba111/4994
+ext,DISCOVERY WORLD FHD H265,http://cdnrede.com:80/Paulao22/nba111/61138
+ext,DISCOVERY WORLD FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/62754
+DiscoveryWorldHD.pe,DISCOVERY WORLD FHD,http://cdnrede.com:80/Paulao22/nba111/5007
+ext,DISCOVERY WORLD FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177745
+DiscoveryWorldHD.pe,DISCOVERY WORLD HD,http://cdnrede.com:80/Paulao22/nba111/4989
+ext,DISCOVERY WORLD HD Â²,http://cdnrede.com:80/Paulao22/nba111/21115
+discov_turbo-extra,DISCOVERY WORLD SD,http://cdnrede.com:80/Paulao22/nba111/4990
+ext,HISTORY CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59844
+ext,HISTORY CHANNEL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30955
+HistoryHD.ru,HISTORY CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/5005
+ext,HISTORY CHANNEL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/172419
+HistoryHD.ru,HISTORY CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/4985
+ext,HISTORY CHANNEL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21111
+history-rus,HISTORY CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/4986
+ext,HISTORY CHANNEL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21110
+ext,H2 FHD H265,http://cdnrede.com:80/Paulao22/nba111/61125
+ext,H2 FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50875
+history2-rus,H2 FHD,http://cdnrede.com:80/Paulao22/nba111/22632
+ext,H2 FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177749
+history2-rus,H2 HD,http://cdnrede.com:80/Paulao22/nba111/4987
+ext,H2 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21113
+history2-rus,H2 SD,http://cdnrede.com:80/Paulao22/nba111/4988
+ext,H2 SD Â²,http://cdnrede.com:80/Paulao22/nba111/21112
+ext,INVESTIGATION DISCOVERY FHD H265,http://cdnrede.com:80/Paulao22/nba111/61124
+ext,INVESTIGATION DISCOVERY FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30954
+id-extra,INVESTIGATION DISCOVERY FHD,http://cdnrede.com:80/Paulao22/nba111/22628
+ext,INVESTIGATION DISCOVERY FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174613
+id-extra,INVESTIGATION DISCOVERY HD,http://cdnrede.com:80/Paulao22/nba111/4983
+ext,INVESTIGATION DISCOVERY HD Â²,http://cdnrede.com:80/Paulao22/nba111/21109
+id-extra,INVESTIGATION DISCOVERY SD,http://cdnrede.com:80/Paulao22/nba111/4984
+ext,INVESTIGATION DISCOVERY SD Â²,http://cdnrede.com:80/Paulao22/nba111/21108
+ext,NATIONAL GEOGRAPHIC FHD H265,http://cdnrede.com:80/Paulao22/nba111/59835
+ext,NATIONAL GEOGRAPHIC FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30949
+natgeo_hd,NATIONAL GEOGRAPHIC FHD,http://cdnrede.com:80/Paulao22/nba111/22618
+ext,NATIONAL GEOGRAPHIC FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177748
+natgeo_hd,NATIONAL GEOGRAPHIC HD,http://cdnrede.com:80/Paulao22/nba111/4981
+ext,NATIONAL GEOGRAPHIC HD Â²,http://cdnrede.com:80/Paulao22/nba111/21105
+natgeo,NATIONAL GEOGRAPHIC SD,http://cdnrede.com:80/Paulao22/nba111/4982
+ext,NATIONAL GEOGRAPHIC SD Â²,http://cdnrede.com:80/Paulao22/nba111/21104
+ext,SMITHSONIAN CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/62739
+SmithsonianChannelHD.us,SMITHSONIAN CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/61390
+SmithsonianChannelHD.us,SMITHSONIAN CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/61393
+SmithsonianChannel.uk,SMITHSONIAN CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/61392
+ext,ARTE 1 FHD H265,http://cdnrede.com:80/Paulao22/nba111/59873
+ext,ARTE 1 FHD,http://cdnrede.com:80/Paulao22/nba111/22654
+ext,ARTE 1 HD,http://cdnrede.com:80/Paulao22/nba111/5273
+ext,ARTE 1 HD Â²,http://cdnrede.com:80/Paulao22/nba111/21300
+Arte1.br,ARTE 1 SD,http://cdnrede.com:80/Paulao22/nba111/5274
+ext,COMEDY CENTRAL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59862
+ext,COMEDY CENTRAL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50881
+ComedyCentral.uk,COMEDY CENTRAL FHD,http://cdnrede.com:80/Paulao22/nba111/22648
+ComedyCentral.uk,COMEDY CENTRAL HD,http://cdnrede.com:80/Paulao22/nba111/5269
+ext,COMEDY CENTRAL HD Â²,http://cdnrede.com:80/Paulao22/nba111/25570
+ComedyCentral.uk,COMEDY CENTRAL SD,http://cdnrede.com:80/Paulao22/nba111/5270
+ext,COMEDY CENTRAL SD Â²,http://cdnrede.com:80/Paulao22/nba111/25569
+ext,CURTA! FHD H265,http://cdnrede.com:80/Paulao22/nba111/59861
+ext,CURTA! FHD,http://cdnrede.com:80/Paulao22/nba111/22647
+ext,CURTA! HD,http://cdnrede.com:80/Paulao22/nba111/5267
+ext,CURTA! SD,http://cdnrede.com:80/Paulao22/nba111/5268
+ext,CURTA! SD Â²,http://cdnrede.com:80/Paulao22/nba111/21298
+ext,DISCOVERY H&H FHD H265,http://cdnrede.com:80/Paulao22/nba111/61143
+ext,DISCOVERY H&H FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52198
+ext,DISCOVERY H&H FHD,http://cdnrede.com:80/Paulao22/nba111/5009
+ext,DISCOVERY H&H FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177752
+ext,DISCOVERY H&H HD,http://cdnrede.com:80/Paulao22/nba111/4997
+ext,DISCOVERY H&H HD Â²,http://cdnrede.com:80/Paulao22/nba111/21295
+HomeHealthHD.mx,DISCOVERY H&H SD,http://cdnrede.com:80/Paulao22/nba111/4998
+ext,DISCOVERY H&H SD Â²,http://cdnrede.com:80/Paulao22/nba111/21294
+ext,DISCOVERY TURBO FHD H265,http://cdnrede.com:80/Paulao22/nba111/61139
+ext,DISCOVERY TURBO FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52197
+Discturbohd.br,DISCOVERY TURBO FHD,http://cdnrede.com:80/Paulao22/nba111/5008
+ext,DISCOVERY TURBO FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174612
+Discturbohd.br,DISCOVERY TURBO HD,http://cdnrede.com:80/Paulao22/nba111/4991
+ext,DISCOVERY TURBO HD Â²,http://cdnrede.com:80/Paulao22/nba111/21293
+DiscoveryTurbo.uk,DISCOVERY TURBO SD,http://cdnrede.com:80/Paulao22/nba111/4992
+ext,DISCOVERY TURBO SD Â²,http://cdnrede.com:80/Paulao22/nba111/21292
+ext,E! FHD H265,http://cdnrede.com:80/Paulao22/nba111/61135
+ext,E! FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52195
+E.uk,E! FHD,http://cdnrede.com:80/Paulao22/nba111/22642
+E.uk,E! HD,http://cdnrede.com:80/Paulao22/nba111/5263
+ext,E! HD Â²,http://cdnrede.com:80/Paulao22/nba111/21291
+E.uk,E! SD,http://cdnrede.com:80/Paulao22/nba111/5264
+ext,E! SD Â²,http://cdnrede.com:80/Paulao22/nba111/21290
+ext,FASHION TV FHD H265,http://cdnrede.com:80/Paulao22/nba111/61132
+ext,FOOD NETWORK FHD H265,http://cdnrede.com:80/Paulao22/nba111/59858
+ext,FOOD NETWORK FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30961
+food-network-rus,FOOD NETWORK FHD,http://cdnrede.com:80/Paulao22/nba111/22639
+food-network-rus,FOOD NETWORK HD,http://cdnrede.com:80/Paulao22/nba111/5259
+ext,FOOD NETWORK HD Â²,http://cdnrede.com:80/Paulao22/nba111/21289
+food-network-rus,FOOD NETWORK SD,http://cdnrede.com:80/Paulao22/nba111/5260
+ext,FOOD NETWORK SD Â²,http://cdnrede.com:80/Paulao22/nba111/21288
+ext,GNT FHD H265,http://cdnrede.com:80/Paulao22/nba111/61126
+ext,GNT FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52193
+Gnthd.br,GNT FHD,http://cdnrede.com:80/Paulao22/nba111/22633
+Gnthd.br,GNT HD,http://cdnrede.com:80/Paulao22/nba111/5257
+ext,GNT HD Â²,http://cdnrede.com:80/Paulao22/nba111/21285
+Gnt.br,GNT SD,http://cdnrede.com:80/Paulao22/nba111/5258
+ext,GNT SD Â²,http://cdnrede.com:80/Paulao22/nba111/21284
+ext,HGTV FHD H265,http://cdnrede.com:80/Paulao22/nba111/61144
+ext,HGTV FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30967
+hgtv,HGTV FHD,http://cdnrede.com:80/Paulao22/nba111/22646
+hgtv,HGTV HD,http://cdnrede.com:80/Paulao22/nba111/22661
+ext,HGTV HD Â²,http://cdnrede.com:80/Paulao22/nba111/25571
+hgtv,HGTV SD,http://cdnrede.com:80/Paulao22/nba111/5000
+ext,LIFETIME FHD H265,http://cdnrede.com:80/Paulao22/nba111/59843
+ext,LIFETIME FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30953
+Lifetime.uk,LIFETIME FHD,http://cdnrede.com:80/Paulao22/nba111/22627
+ext,LIFETIME FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177751
+Lifetime.uk,LIFETIME HD,http://cdnrede.com:80/Paulao22/nba111/5255
+ext,LIFETIME HD Â²,http://cdnrede.com:80/Paulao22/nba111/21283
+Lifetime.uk,LIFETIME SD,http://cdnrede.com:80/Paulao22/nba111/5256
+ext,LIFETIME SD Â²,http://cdnrede.com:80/Paulao22/nba111/21282
+ext,LOADING FHD,http://cdnrede.com:80/Paulao22/nba111/192841
+ext,LOADING FHD Â²,http://cdnrede.com:80/Paulao22/nba111/192844
+ext,LOADING HD,http://cdnrede.com:80/Paulao22/nba111/192842
+ext,LOADING HD Â²,http://cdnrede.com:80/Paulao22/nba111/192845
+ext,LOADING SD,http://cdnrede.com:80/Paulao22/nba111/192843
+ext,LOADING SD Â²,http://cdnrede.com:80/Paulao22/nba111/207300
+ext,MAIS GLOBOSAT FHD H265,http://cdnrede.com:80/Paulao22/nba111/59842
+ext,MAIS GLOBOSAT FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/62753
+ext,MAIS GLOBOSAT FHD,http://cdnrede.com:80/Paulao22/nba111/25405
+ext,MAIS GLOBOSAT HD,http://cdnrede.com:80/Paulao22/nba111/5253
+ext,MAIS GLOBOSAT HD Â²,http://cdnrede.com:80/Paulao22/nba111/21281
+ext,MAIS GLOBOSAT SD,http://cdnrede.com:80/Paulao22/nba111/5254
+ext,MAIS GLOBOSAT SD Â²,http://cdnrede.com:80/Paulao22/nba111/21280
+ext,MULTISHOW FHD H265,http://cdnrede.com:80/Paulao22/nba111/61122
+Multishow.br,MULTISHOW FHD,http://cdnrede.com:80/Paulao22/nba111/22620
+Multishow.br,MULTISHOW HD,http://cdnrede.com:80/Paulao22/nba111/5249
+ext,MULTISHOW HD Â²,http://cdnrede.com:80/Paulao22/nba111/21279
+Multishow.br,MULTISHOW SD,http://cdnrede.com:80/Paulao22/nba111/5250
+ext,MULTISHOW SD Â²,http://cdnrede.com:80/Paulao22/nba111/21278
+ext,TLC FHD H265,http://cdnrede.com:80/Paulao22/nba111/62738
+ext,TLC FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/62752
+tlc-russia-hd,TLC FHD,http://cdnrede.com:80/Paulao22/nba111/22606
+ext,TLC FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177753
+tlc-russia-hd,TLC HD,http://cdnrede.com:80/Paulao22/nba111/5241
+ext,TLC HD Â²,http://cdnrede.com:80/Paulao22/nba111/21275
+tlc-russia,TLC SD,http://cdnrede.com:80/Paulao22/nba111/5242
+ext,TLC SD Â²,http://cdnrede.com:80/Paulao22/nba111/21274
+ext,TRAVEL BOX BRAZIL FHD H265,http://cdnrede.com:80/Paulao22/nba111/61113
+ext,TRUTV FHD H265,http://cdnrede.com:80/Paulao22/nba111/62737
+TruTVHD.mx,TRUTV FHD,http://cdnrede.com:80/Paulao22/nba111/22603
+TruTVHD.mx,TRUTV HD,http://cdnrede.com:80/Paulao22/nba111/5244
+TruTV.uk,TRUTV SD,http://cdnrede.com:80/Paulao22/nba111/5243
+ext,TRUTV SD Â²,http://cdnrede.com:80/Paulao22/nba111/25596
+ext,VIVA FHD H265,http://cdnrede.com:80/Paulao22/nba111/59804
+Viva.br,VIVA FHD,http://cdnrede.com:80/Paulao22/nba111/5275
+Viva.br,VIVA HD,http://cdnrede.com:80/Paulao22/nba111/5236
+ext,VIVA HD Â²,http://cdnrede.com:80/Paulao22/nba111/21273
+Viva.uk,VIVA SD,http://cdnrede.com:80/Paulao22/nba111/5237
+ext,VIVA SD Â²,http://cdnrede.com:80/Paulao22/nba111/21272
+ext,WOOHOO FHD H265,http://cdnrede.com:80/Paulao22/nba111/61110
+ext,WOOHOO FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/62751
+ext,WOOHOO FHD,http://cdnrede.com:80/Paulao22/nba111/22599
+ext,WOOHOO HD,http://cdnrede.com:80/Paulao22/nba111/5234
+ext,WOOHOO HD Â²,http://cdnrede.com:80/Paulao22/nba111/43278
+Woohoo.br,WOOHOO SD,http://cdnrede.com:80/Paulao22/nba111/5235
+ext,WOOHOO SD Â²,http://cdnrede.com:80/Paulao22/nba111/21296
+baby-tv,BABY TV SD,http://cdnrede.com:80/Paulao22/nba111/5173
+ext,BABY TV SD Â²,http://cdnrede.com:80/Paulao22/nba111/21226
+ext,CARTOONITO H265,http://cdnrede.com:80/Paulao22/nba111/59868
+ext,CARTOONITO FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52199
+Cartoonito.it,CARTOONITO FHD,http://cdnrede.com:80/Paulao22/nba111/5177
+ext,CARTOONITO FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174789
+Cartoonito.it,CARTOONITO HD,http://cdnrede.com:80/Paulao22/nba111/5180
+Cartoonito.uk,CARTOONITO SD,http://cdnrede.com:80/Paulao22/nba111/5181
+ext,CARTOONITO SD Â²,http://cdnrede.com:80/Paulao22/nba111/21311
+ext,CARTOON NETWORK FHD H265,http://cdnrede.com:80/Paulao22/nba111/59865
+ext,CARTOON NETWORK FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30969
+cartoon,CARTOON NETWORK FHD,http://cdnrede.com:80/Paulao22/nba111/22650
+ext,CARTOON NETWORK FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174790
+cartoon,CARTOON NETWORK HD,http://cdnrede.com:80/Paulao22/nba111/5171
+ext,CARTOON NETWORK HD Â²,http://cdnrede.com:80/Paulao22/nba111/21225
+cartoon,CARTOON NETWORK SD,http://cdnrede.com:80/Paulao22/nba111/5172
+ext,CARTOON NETWORK SD Â²,http://cdnrede.com:80/Paulao22/nba111/21224
+ext,DISCOVERY KIDS FHD H265,http://cdnrede.com:80/Paulao22/nba111/61142
+ext,DISCOVERY KIDS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52202
+DiscoveryKidsHD.pe,DISCOVERY KIDS FHD,http://cdnrede.com:80/Paulao22/nba111/5176
+ext,DISCOVERY KIDS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174793
+DiscoveryKidsHD.pe,DISCOVERY KIDS HD,http://cdnrede.com:80/Paulao22/nba111/5169
+ext,DISCOVERY KIDS HD Â²,http://cdnrede.com:80/Paulao22/nba111/21223
+DiscoveryKids.mx,DISCOVERY KIDS SD,http://cdnrede.com:80/Paulao22/nba111/5170
+ext,DISCOVERY KIDS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21222
+ext,DISNEY CHANNEL FHD H265,http://cdnrede.com:80/Paulao22/nba111/61137
+ext,DISNEY CHANNEL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52196
+Disney.uk,DISNEY CHANNEL FHD,http://cdnrede.com:80/Paulao22/nba111/5179
+ext,DISNEY CHANNEL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174796
+Disney.uk,DISNEY CHANNEL HD,http://cdnrede.com:80/Paulao22/nba111/5167
+ext,DISNEY CHANNEL HD Â²,http://cdnrede.com:80/Paulao22/nba111/21221
+disney,DISNEY CHANNEL SD,http://cdnrede.com:80/Paulao22/nba111/5168
+ext,DISNEY CHANNEL SD Â²,http://cdnrede.com:80/Paulao22/nba111/21220
+ext,GLOOB FHD H265,http://cdnrede.com:80/Paulao22/nba111/59850
+ext,GLOOB FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52207
+Gloob.br,GLOOB FHD,http://cdnrede.com:80/Paulao22/nba111/5178
+ext,GLOOB FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174801
+Gloob.br,GLOOB HD,http://cdnrede.com:80/Paulao22/nba111/5163
+ext,GLOOB HD Â²,http://cdnrede.com:80/Paulao22/nba111/21215
+Gloob.br,GLOOB SD,http://cdnrede.com:80/Paulao22/nba111/5164
+ext,GLOOB SD Â²,http://cdnrede.com:80/Paulao22/nba111/21214
+ext,GLOOBINHO FHD H265,http://cdnrede.com:80/Paulao22/nba111/62742
+ext,GLOOBINHO FHD,http://cdnrede.com:80/Paulao22/nba111/22634
+ext,GLOOBINHO FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174803
+ext,GLOOBINHO HD,http://cdnrede.com:80/Paulao22/nba111/5162
+ext,GLOOBINHO HD Â²,http://cdnrede.com:80/Paulao22/nba111/177941
+ext,GLOOBINHO SD,http://cdnrede.com:80/Paulao22/nba111/5161
+ext,NICK JR FHD H265,http://cdnrede.com:80/Paulao22/nba111/59833
+NickJrHD.us,NICK JR FHD,http://cdnrede.com:80/Paulao22/nba111/5175
+ext,NICK JR FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174807
+NickJrHD.us,NICK JR HD,http://cdnrede.com:80/Paulao22/nba111/5157
+ext,NICK JR HD Â²,http://cdnrede.com:80/Paulao22/nba111/21211
+nick-jr,NICK JR SD,http://cdnrede.com:80/Paulao22/nba111/5158
+ext,NICK JR SD Â²,http://cdnrede.com:80/Paulao22/nba111/21210
+ext,NICKELODEON FHD H265,http://cdnrede.com:80/Paulao22/nba111/59832
+ext,NICKELODEON FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52204
+nickelod-hd,NICKELODEON FHD,http://cdnrede.com:80/Paulao22/nba111/5174
+ext,NICKELODEON FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174806
+nickelod-hd,NICKELODEON HD,http://cdnrede.com:80/Paulao22/nba111/5155
+ext,NICKELODEON HD Â²,http://cdnrede.com:80/Paulao22/nba111/21209
+nickelodeon-rus,NICKELODEON SD,http://cdnrede.com:80/Paulao22/nba111/5156
+ext,NICKELODEON SD Â²,http://cdnrede.com:80/Paulao22/nba111/21208
+ext,PLAYKIDS FHD,http://cdnrede.com:80/Paulao22/nba111/177950
+ext,PLAYKIDS HD,http://cdnrede.com:80/Paulao22/nba111/177948
+ext,PLAYKIDS SD,http://cdnrede.com:80/Paulao22/nba111/177949
+ext,PLAYKIDS SD Â²,http://cdnrede.com:80/Paulao22/nba111/177951
+ext,TOONCAST FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174814
+Tooncast.mx,TOONCAST SD,http://cdnrede.com:80/Paulao22/nba111/5154
+ext,TOONCAST SD Â²,http://cdnrede.com:80/Paulao22/nba111/21204
+ext,TV RA-TIM-BUM FHD H265,http://cdnrede.com:80/Paulao22/nba111/59807
+ext,TV RA-TIM-BUM FHD,http://cdnrede.com:80/Paulao22/nba111/22602
+ext,TV RA-TIM-BUM HD,http://cdnrede.com:80/Paulao22/nba111/5152
+Tvratimbum.br,TV RA-TIM-BUM SD,http://cdnrede.com:80/Paulao22/nba111/5153
+ext,ZOOMOO FHD Â²,http://cdnrede.com:80/Paulao22/nba111/174810
+ext,ZOOMOO HD Â²,http://cdnrede.com:80/Paulao22/nba111/174812
+Zoomoo.br,ZOOMOO SD,http://cdnrede.com:80/Paulao22/nba111/169800
+ext,ZOOMOO SD Â²,http://cdnrede.com:80/Paulao22/nba111/177947
+ext,CORONA VIRUS HD,http://cdnrede.com:80/Paulao22/nba111/167527
+ext,BAND NEWS FHD H265,http://cdnrede.com:80/Paulao22/nba111/59871
+ext,BAND NEWS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52201
+ext,BAND NEWS FHD,http://cdnrede.com:80/Paulao22/nba111/5188
+ext,BAND NEWS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205687
+ext,BAND NEWS HD,http://cdnrede.com:80/Paulao22/nba111/5186
+ext,BAND NEWS HD Â²,http://cdnrede.com:80/Paulao22/nba111/43265
+Bandnews.br,BAND NEWS SD,http://cdnrede.com:80/Paulao22/nba111/5187
+ext,BAND NEWS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21238
+ext,CNN BRASIL FHD H265,http://cdnrede.com:80/Paulao22/nba111/167526
+ext,CNN BRASIL FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/167923
+ext,CNN BRASIL FHD,http://cdnrede.com:80/Paulao22/nba111/166979
+ext,CNN BRASIL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205688
+ext,CNN BRASIL HD,http://cdnrede.com:80/Paulao22/nba111/166980
+ext,CNN BRASIL HD Â²,http://cdnrede.com:80/Paulao22/nba111/167915
+CNNBrasil.br,CNN BRASIL SD,http://cdnrede.com:80/Paulao22/nba111/166981
+ext,CNN BRASIL SD Â²,http://cdnrede.com:80/Paulao22/nba111/167916
+ext,GLOBO NEWS FHD H265,http://cdnrede.com:80/Paulao22/nba111/59851
+ext,GLOBO NEWS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/30944
+Globonewshd.br,GLOBO NEWS FHD,http://cdnrede.com:80/Paulao22/nba111/5189
+ext,GLOBO NEWS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205686
+Globonewshd.br,GLOBO NEWS HD,http://cdnrede.com:80/Paulao22/nba111/5184
+ext,GLOBO NEWS HD Â²,http://cdnrede.com:80/Paulao22/nba111/21237
+Globonews.br,GLOBO NEWS SD,http://cdnrede.com:80/Paulao22/nba111/5185
+ext,GLOBO NEWS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21236
+ext,JOVEM PAN NEWS FHD H265,http://cdnrede.com:80/Paulao22/nba111/217692
+ext,JOVEM PAN NEWS FHD,http://cdnrede.com:80/Paulao22/nba111/217691
+ext,JOVEM PAN NEWS HD,http://cdnrede.com:80/Paulao22/nba111/217690
+ext,JOVEM PAN NEWS HD Â²,http://cdnrede.com:80/Paulao22/nba111/217693
+JovemPanNews.br,JOVEM PAN NEWS SD,http://cdnrede.com:80/Paulao22/nba111/217689
+ext,JOVEM PAN NEWS SD Â²,http://cdnrede.com:80/Paulao22/nba111/228181
+ext,RECORD NEWS FHD H265,http://cdnrede.com:80/Paulao22/nba111/62741
+ext,RECORD NEWS FHD,http://cdnrede.com:80/Paulao22/nba111/22612
+ext,RECORD NEWS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205689
+ext,RECORD NEWS HD,http://cdnrede.com:80/Paulao22/nba111/5182
+ext,RECORD NEWS HD Â²,http://cdnrede.com:80/Paulao22/nba111/169898
+RecordNews.pt,RECORD NEWS SD,http://cdnrede.com:80/Paulao22/nba111/5183
+ext,RECORD NEWS SD Â²,http://cdnrede.com:80/Paulao22/nba111/25594
+ext,24H NEWS HD,http://cdnrede.com:80/Paulao22/nba111/213995
+ext,24H NEWS HD Â²,http://cdnrede.com:80/Paulao22/nba111/228182
+ext,BIS FHD H265,http://cdnrede.com:80/Paulao22/nba111/59869
+ext,BIS FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52209
+Bis.br,BIS FHD,http://cdnrede.com:80/Paulao22/nba111/30626
+ext,BIS FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205690
+Bis.br,BIS HD,http://cdnrede.com:80/Paulao22/nba111/5271
+ext,BIS HD Â²,http://cdnrede.com:80/Paulao22/nba111/21235
+Bis.br,BIS SD,http://cdnrede.com:80/Paulao22/nba111/5272
+ext,BIS SD Â²,http://cdnrede.com:80/Paulao22/nba111/21234
+ext,MTV FHD H265,http://cdnrede.com:80/Paulao22/nba111/59837
+ext,MTV FHD H265 Â²,http://cdnrede.com:80/Paulao22/nba111/52203
+mtvlive-hd,MTV FHD,http://cdnrede.com:80/Paulao22/nba111/22622
+ext,MTV FHD Â²,http://cdnrede.com:80/Paulao22/nba111/205691
+mtvlive-hd,MTV HD,http://cdnrede.com:80/Paulao22/nba111/5251
+ext,MTV HD Â²,http://cdnrede.com:80/Paulao22/nba111/21233
+mtv-rus,MTV SD,http://cdnrede.com:80/Paulao22/nba111/5252
+ext,MTV SD Â²,http://cdnrede.com:80/Paulao22/nba111/21232
+ext,MTV LIVE FHD H265,http://cdnrede.com:80/Paulao22/nba111/61123
+mtvlive-hd,MTV LIVE FHD,http://cdnrede.com:80/Paulao22/nba111/22621
+ext,MTV LIVE FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228170
+mtvlive-hd,MTV LIVE HD,http://cdnrede.com:80/Paulao22/nba111/22657
+ext,MTV LIVE HD Â²,http://cdnrede.com:80/Paulao22/nba111/228169
+mtvlive-hd,MTV LIVE SD,http://cdnrede.com:80/Paulao22/nba111/22658
+ext,MTV LIVE SD Â²,http://cdnrede.com:80/Paulao22/nba111/228168
+ext,MTV 00S FHD H265,http://cdnrede.com:80/Paulao22/nba111/59805
+ext,MTV 00S H265 Â²,http://cdnrede.com:80/Paulao22/nba111/50872
+ext,MTV 00S FHD,http://cdnrede.com:80/Paulao22/nba111/22600
+ext,MTV 00S FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228173
+ext,MTV 00S HD,http://cdnrede.com:80/Paulao22/nba111/5239
+ext,MTV 00S HD Â²,http://cdnrede.com:80/Paulao22/nba111/43279
+vh1-europe,MTV 00S SD,http://cdnrede.com:80/Paulao22/nba111/5240
+ext,MTV 00S SD Â²,http://cdnrede.com:80/Paulao22/nba111/228172
+ext,MUSIC BOX BRAZIL FHD H265,http://cdnrede.com:80/Paulao22/nba111/59836
+ext,MUSIC BOX BRAZIL FHD,http://cdnrede.com:80/Paulao22/nba111/22619
+ext,MUSIC BOX BRAZIL FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228171
+ext,MUSIC BOX BRAZIL HD,http://cdnrede.com:80/Paulao22/nba111/5247
+ext,MUSIC BOX BRAZIL HD Â²,http://cdnrede.com:80/Paulao22/nba111/205692
+ext,MUSIC BOX BRAZIL SD,http://cdnrede.com:80/Paulao22/nba111/5248
+ext,MUSIC BOX BRAZIL SD Â²,http://cdnrede.com:80/Paulao22/nba111/25714
+ext,RETRO PLUS HD,http://cdnrede.com:80/Paulao22/nba111/228175
+ext,RETRO PLUS 2 HD,http://cdnrede.com:80/Paulao22/nba111/228176
+ext,RETRO PLUS 3 HD,http://cdnrede.com:80/Paulao22/nba111/228177
+ext,M2O MUSIC HD,http://cdnrede.com:80/Paulao22/nba111/228178
+ext,REDE VIDA FHD H265,http://cdnrede.com:80/Paulao22/nba111/59823
+ext,REDE VIDA FHD,http://cdnrede.com:80/Paulao22/nba111/25401
+ext,REDE VIDA FHD Â²,http://cdnrede.com:80/Paulao22/nba111/228263
+ext,REDE VIDA HD,http://cdnrede.com:80/Paulao22/nba111/29851
+ext,REDE VIDA HD Â²,http://cdnrede.com:80/Paulao22/nba111/228262
+Redevida.br,REDE VIDA SD,http://cdnrede.com:80/Paulao22/nba111/4958
+ext,REDE VIDA SD Â²,http://cdnrede.com:80/Paulao22/nba111/25607
+ext,TV APARECIDA FHD,http://cdnrede.com:80/Paulao22/nba111/4951
+ext,TV APARECIDA HD,http://cdnrede.com:80/Paulao22/nba111/64417
+Tvaparecida.br,TV APARECIDA SD,http://cdnrede.com:80/Paulao22/nba111/169926
+ext,TV NOVO TEMPO FHD H265,http://cdnrede.com:80/Paulao22/nba111/61112
+ext,TV NOVO TEMPO FHD,http://cdnrede.com:80/Paulao22/nba111/228256
+ext,TV NOVO TEMPO HD,http://cdnrede.com:80/Paulao22/nba111/22180
+ext,TV NOVO TEMPO HD Â²,http://cdnrede.com:80/Paulao22/nba111/228258
+Tvnovotempo.br,TV NOVO TEMPO SD,http://cdnrede.com:80/Paulao22/nba111/192717
+ext,TV NOVO TEMPO SD Â²,http://cdnrede.com:80/Paulao22/nba111/228257
+Cancaonova.br,CANÃ‡ÃƒO NOVA HD,http://cdnrede.com:80/Paulao22/nba111/5215
+ext,CANÃ‡ÃƒO NOVA HD Â²,http://cdnrede.com:80/Paulao22/nba111/228266
+ext,TV MEDALHAO HD,http://cdnrede.com:80/Paulao22/nba111/228260
+ext,TV MEDALHAO HD Â²,http://cdnrede.com:80/Paulao22/nba111/228259
+ext,TV PAI ETERNO HD,http://cdnrede.com:80/Paulao22/nba111/228268
+ext,TV PAI ETERNO HD Â²,http://cdnrede.com:80/Paulao22/nba111/228267
+ext,REDE SUPER HD,http://cdnrede.com:80/Paulao22/nba111/57836
+ext,REDE SUPER HD Â²,http://cdnrede.com:80/Paulao22/nba111/228265
+ext,RIT TV HD,http://cdnrede.com:80/Paulao22/nba111/167981
+ext,RIT TV HD Â²,http://cdnrede.com:80/Paulao22/nba111/228269
+ext,TV UNIVERSAL HD,http://cdnrede.com:80/Paulao22/nba111/228270
+ext,TV UNIVERSAL HD Â²,http://cdnrede.com:80/Paulao22/nba111/228272
+ext,TV EVANGELIZAR SD,http://cdnrede.com:80/Paulao22/nba111/228261
+ext,TV EVANGELIZAR SD Â²,http://cdnrede.com:80/Paulao22/nba111/169948
+ext,REDE SÃ‰CULO 21 HD,http://cdnrede.com:80/Paulao22/nba111/5980
+ext,TV GIDEOES HD,http://cdnrede.com:80/Paulao22/nba111/6306
+ext,TV JESUS HD,http://cdnrede.com:80/Paulao22/nba111/169863
+ext,REDE GOSPEL HD,http://cdnrede.com:80/Paulao22/nba111/167962
+RedeGenesis.br,REDE GENESIS,http://cdnrede.com:80/Paulao22/nba111/214120
+ext,TV TEMPLO HD,http://cdnrede.com:80/Paulao22/nba111/228271
+ext,PROMESSAS HD,http://cdnrede.com:80/Paulao22/nba111/228264
+ext,COM BRASIL SD,http://cdnrede.com:80/Paulao22/nba111/213988
+ext,URBAN DOCS,http://cdnrede.com:80/Paulao22/nba111/213990
+ext,URBAN KIDS,http://cdnrede.com:80/Paulao22/nba111/213991
+ext,URBAN TV,http://cdnrede.com:80/Paulao22/nba111/213992
+ext,CLUBINHO FUN,http://cdnrede.com:80/Paulao22/nba111/213996
+ext,UP CHANNEL,http://cdnrede.com:80/Paulao22/nba111/213998
+ext,INSPIRE,http://cdnrede.com:80/Paulao22/nba111/213999
+ext,HELLO TV,http://cdnrede.com:80/Paulao22/nba111/214002
+ext,REDE MOSAICO,http://cdnrede.com:80/Paulao22/nba111/214003
+SESCTV.br,SESC TV,http://cdnrede.com:80/Paulao22/nba111/214005
+TVT.pl,TVT,http://cdnrede.com:80/Paulao22/nba111/214119
+ext,TV MUNDO MAIOR,http://cdnrede.com:80/Paulao22/nba111/214121
+ext,TV JOCKEY,http://cdnrede.com:80/Paulao22/nba111/214122
+ext,NHK JAPAN,http://cdnrede.com:80/Paulao22/nba111/214123
+Shoptime.br,SHOPTIME,http://cdnrede.com:80/Paulao22/nba111/214124
+ext,GLOBO TV BAHIA FHD Â²,http://cdnrede.com:80/Paulao22/nba111/222475
+ext,GLOBO TV BAHIA HD Â²,http://cdnrede.com:80/Paulao22/nba111/222476
+ext,YES LIFE HD,http://cdnrede.com:80/Paulao22/nba111/228174
+ext,YES LIFE HD Â²,http://cdnrede.com:80/Paulao22/nba111/213997
+ext,AXN (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177345
+ext,AXN (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25486
+ext,AXN (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177346
+ext,AXN (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25485
+ext,CANAL SONY (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25452
+ext,CANAL SONY (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25451
+ext,STAR CHANNEL (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177343
+ext,STAR CHANNEL (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25484
+ext,STAR CHANNEL (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177344
+ext,STAR CHANNEL (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25483
+ext,FX (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25464
+ext,FX (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25463
+ext,HBO (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177331
+ext,HBO (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25482
+ext,HBO (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177332
+ext,HBO (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25481
+ext,HBO PLUS (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177333
+ext,HBO PLUS (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25480
+ext,HBO PLUS (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177334
+ext,HBO PLUS (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25479
+ext,HBO XTREME (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177341
+ext,HBO XTREME (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177342
+ext,HBO XTREME (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25478
+ext,HBO MUNDI (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177337
+ext,HBO MUNDI (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177338
+ext,HBO MUNDI (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25477
+ext,HBO POP (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177339
+ext,HBO POP (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25462
+ext,HBO POP (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177340
+ext,HBO POP (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25461
+ext,HBO SIGNATURE (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177335
+ext,HBO SIGNATURE (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177336
+ext,MEGAPIX (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25460
+ext,MEGAPIX (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25459
+ext,SPACE (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25458
+ext,SPACE (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25457
+ext,TELECINE ACTION (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177323
+ext,TELECINE ACTION (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25476
+ext,TELECINE ACTION (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177324
+ext,TELECINE ACTION (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25475
+ext,TELECINE FUN (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177327
+ext,TELECINE FUN (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25474
+ext,TELECINE FUN (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177328
+ext,TELECINE FUN (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25473
+ext,TELECINE PIPOCA (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177319
+ext,TELECINE PIPOCA (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25472
+ext,TELECINE PIPOCA (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177320
+ext,TELECINE PIPOCA (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25471
+ext,TELECINE PREMIUM (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177321
+ext,TELECINE PREMIUM (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25470
+ext,TELECINE PREMIUM (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177322
+ext,TELECINE PREMIUM (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25469
+ext,TELECINE TOUCH (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177325
+ext,TELECINE TOUCH (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25468
+ext,TELECINE TOUCH (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177326
+ext,TELECINE TOUCH (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25467
+ext,TELECINE CULT (LEG) FHD Â²,http://cdnrede.com:80/Paulao22/nba111/177329
+ext,TELECINE CULT (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/169797
+ext,TELECINE CULT (LEG) HD Â²,http://cdnrede.com:80/Paulao22/nba111/177330
+ext,TELECINE CULT (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/169795
+ext,TNT (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25466
+ext,TNT (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25465
+ext,TNT SERIES (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25456
+ext,TNT SERIES (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25455
+ext,WARNER CHANNEL (LEG) HD,http://cdnrede.com:80/Paulao22/nba111/25454
+ext,WARNER CHANNEL (LEG) SD,http://cdnrede.com:80/Paulao22/nba111/25453
+ext,24HS: 101 DALMATAS HD,http://cdnrede.com:80/Paulao22/nba111/60905
+ext,24HS: 3 PALAVRINHAS HD,http://cdnrede.com:80/Paulao22/nba111/60904
+ext,24HS: A DIARISTA HD,http://cdnrede.com:80/Paulao22/nba111/62904
+ext,24HS: A FAMILIA ADDAMS SD,http://cdnrede.com:80/Paulao22/nba111/67267
+ext,24HS: A GRANDE FAMÃLIA S01-04 HD,http://cdnrede.com:80/Paulao22/nba111/64688
+ext,24HS: A GRANDE FAMÃLIA S10-14 HD,http://cdnrede.com:80/Paulao22/nba111/64687
+ext,24HS: A HORA DO RECREIO HD,http://cdnrede.com:80/Paulao22/nba111/62903
+ext,24HS: A LARVA FHD,http://cdnrede.com:80/Paulao22/nba111/61180
+ext,24HS: ALADDIN SD,http://cdnrede.com:80/Paulao22/nba111/60903
+ext,24HS: ALIENÃGENAS DO PASSADO S01 SD,http://cdnrede.com:80/Paulao22/nba111/68318
+ext,24HS: ALIENÃGINAS DO PASSADO S02 SD,http://cdnrede.com:80/Paulao22/nba111/68319
+ext,24HS: ALIENÃGINAS DO PASSADO S03 SD,http://cdnrede.com:80/Paulao22/nba111/68320
+ext,24HS: ALIENÃGINAS DO PASSADO S04 SD,http://cdnrede.com:80/Paulao22/nba111/68321
+ext,24HS: ALIENÃGINAS DO PASSADO S05 SD,http://cdnrede.com:80/Paulao22/nba111/…
